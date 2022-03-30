@@ -2,16 +2,21 @@
   "name": "tos_extraction",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "type": "module",
+  "main": "index.ts",
   "scripts": {
-    "start": "node index.js",
+    "start": "tsc && node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@tsconfig/node17": "^1.0.0",
+    "moment": "^2.29.1",
     "pdfjs": "^2.4.7",
     "pdfjs-dist": "^2.13.216",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3",
     "xmlbuilder": "^15.1.1",
     "xmlbuilder2": "^3.0.2"
   }

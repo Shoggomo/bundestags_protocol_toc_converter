@@ -1,0 +1,13 @@
+{
+  "extends": "@tsconfig/node17/tsconfig.json",
+  "compilerOptions": {
+    "strict": true,
+    "module": "esnext",
+    "target": "es2017",
+    "moduleResolution": "Node",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
