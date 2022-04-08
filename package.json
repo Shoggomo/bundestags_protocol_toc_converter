@@ -12,11 +12,15 @@
   "license": "ISC",
   "dependencies": {
     "@tsconfig/node17": "^1.0.0",
+    "@types/jsdom": "^16.2.14",
+    "jsdom": "^19.0.0",
     "moment": "^2.29.1",
     "pdfjs": "^2.4.7",
     "pdfjs-dist": "^2.13.216",
     "ts-node": "^10.7.0",
     "typescript": "^4.6.3",
+    "xml-query": "^1.5.0",
+    "xml-reader": "^2.4.3",
     "xmlbuilder": "^15.1.1",
     "xmlbuilder2": "^3.0.2"
   }

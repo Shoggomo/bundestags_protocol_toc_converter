@@ -1,19 +1,29 @@
-import pdfjs from "pdfjs-dist/legacy/build/pdf.js";
+import pdfjs, {PDFPageProxy} from "pdfjs-dist/legacy/build/pdf.js";
 import * as templates from "./xml-templates.mjs";
 import {TextContent, TextItem} from "pdfjs-dist/types/src/display/api";
-import {ivzBlock, IvzBlockParams, ivzEintrag, IvzEintragParams, KopfdatenParams} from "./xml-templates.mjs";
+import {ivzBlock, IvzBlockParams, ivzEintrag, IvzEintragParams, KopfdatenParams, RednerData} from "./xml-templates.mjs";
+import {loadStammdatenForWp} from "./stammdaten.js";
+import {Moment} from "moment";
+import {parseLocationDate} from "./utils.js";
 
-// load ToS file
+// Split Stammdaten, if not already. Uncomment this lines and comment everything else out.
+// generateStammdatenByWp()
+// process.exit();
+
+// load ToS file and the stammdaten for the correct wp
 const path = String.raw`../../../18001-tos.pdf`;
-
 const doc = await pdfjs.getDocument(path).promise;
 
+const stammdaten = loadStammdatenForWp("18");
 
 // a delimiter better than ","  is "µ" (it's less common and not reserved in RegEx)
 // ƒ stands for many dots . . . .
 
+
+// Extract metadata
+const metadata = await extractMetadata(await doc.getPage(1));
+
 // iterate all pages and collect metadata and tos entries
-let metadata: KopfdatenParams | null = null;
 const entries: IvzEintragParams[] = [];
 
 for (let pageNumber = 1; pageNumber < doc.numPages + 1; pageNumber++) {
@@ -23,27 +33,19 @@ for (let pageNumber = 1; pageNumber < doc.numPages + 1; pageNumber++) {
     const contents = await page.getTextContent();
     let cleanText = cleanPageText(contents);
 
-    let textNoHeader = cleanText;
+    let textNoHeader;
     // if page 1, extract metadata, else remove header
     if (page.pageNumber === 1) {
-        // remove/save first five Segments (they are metadata)
-        const metaSegments = textNoHeader.split("µ").slice(0, 5);
-        metadata = {
-            period: metaSegments[0].split(/[ /]/)[1],
-            sessionNr: metaSegments[0].split(/[ /]/)[2],
-            locationDate: metaSegments[4],
-        }
-
-        // remove metadata and invisible "Inhaltsverzeichnis" from text
-        textNoHeader = textNoHeader.split("µ").slice(6).join("µ");
+        // remove metadata sections and invisible "Inhaltsverzeichnis" from text
+        textNoHeader = cleanText.split("µ").slice(6).join("µ");
         const matchInhaltsverzeichnis = /µInhaltsverzeichnis/g;
         textNoHeader = textNoHeader.replaceAll(matchInhaltsverzeichnis, "");
     } else {
         // remove first couple Segments (they are the header)
-        textNoHeader = textNoHeader.split("µ").slice(2).join("µ");
+        textNoHeader = cleanText.split("µ").slice(2).join("µ");
     }
 
-    const pageEntries = await extractTOSEntries(textNoHeader);
+    const pageEntries = await extractTOSEntries(textNoHeader, metadata.period, metadata.date);
 
     entries.push(...pageEntries)
 }
@@ -53,7 +55,7 @@ for (let pageNumber = 1; pageNumber < doc.numPages + 1; pageNumber++) {
 const blocks = entries.reduce((arr, e) => {
     const matchNewBlock = /^(Tagesordnungspunkt \d+: |Anlage \d+ )?(.+)/; // matches a title and puts new block starters like Anlage into group 1, the rest is in group 2 (group 1 may be empty)
     const match = e.content.match(matchNewBlock);
-    if(match && match[1]) {
+    if (match && match[1]) {
         // add new block
         arr.push({
             blockTitel: match[1],
@@ -62,10 +64,10 @@ const blocks = entries.reduce((arr, e) => {
         e.content = match[2];
     }
 
-    if(arr.length > 0) {
+    if (arr.length > 0) {
         // add entry to last block
         const lastEntry = arr[arr.length - 1];
-        if("blockTitel" in lastEntry){
+        if ("blockTitel" in lastEntry) {
             // last entry is a block
             lastEntry.ivzEintraegeParams.push(e)
         } else {
@@ -90,11 +92,8 @@ if (!metadata) {
 
 const kopfdaten = templates.kopfdaten(metadata)
 
-console.log(blocks)
-
-
 const ivzEintraegeBloecke = blocks.map(e => {
-    if("blockTitel" in e){
+    if ("blockTitel" in e) {
         // e is a block
         return ivzBlock(e);
     } else {
@@ -115,13 +114,29 @@ TODOs:
 	- build Rede-ID see in XREF section (https://www.bundestag.de/resource/blob/577234/4c8091d8650fe417016bb48e604e3eaf/dbtplenarprotokoll_kommentiert-data.pdf)
 */
 
+async function extractMetadata(firstPage: PDFPageProxy): Promise<KopfdatenParams> {
+    // get text from document and clean it
+    const contents = await firstPage.getTextContent();
+    let cleanText = cleanPageText(contents);
+    const metaSegments = cleanText.split("µ").slice(0, 5);
+
+    const locationDateData = parseLocationDate(metaSegments[4]);
+
+    return {
+        period: metaSegments[0].split(/[ /]/)[1],
+        sessionNr: metaSegments[0].split(/[ /]/)[2],
+        ...locationDateData
+    }
+}
+
 
 /**
  *
  * @param cleanedText Clean text without metadata or header. Segments are separated by µ and entries are separated by ƒ.
- * @returns {Promise<{"[A]": {"@": {"[TYP]": string, "[HREF]": string}, "[SEITENBEREICH]": *, "[SEITE]": *}, "[IVZ_EINTRAG_INHALT]": *}[]>}
+ * @param wp
+ * @param sessionDate
  */
-function extractTOSEntries(cleanedText: string): IvzEintragParams[] {
+function extractTOSEntries(cleanedText: string, wp: string, sessionDate: Moment): IvzEintragParams[] {
     let text = cleanedText;
 
     // get page numbers and sections as [string, string] (name, section)
@@ -144,12 +159,25 @@ function extractTOSEntries(cleanedText: string): IvzEintragParams[] {
         throw new Error("Found page numbers and entries don't match!");
     }
 
-    return entryNames.map((name, i) => ({
-        content: name,
-        pageNumber: pageNumbersSections[i][0],
-        pageSection: pageNumbersSections[i][1],
-        redner: undefined // TODO
-    }));
+
+    return entryNames.map((content, i) => {
+
+        console.log("\n" + content)
+
+        // Tagesordnungspunkt, Anlage cannot contain Redner
+        const matchStartsWithTopAnlage = /^(Tagesordnungspunkt|Anlage)/;
+
+        const rednerData: RednerData | null = matchStartsWithTopAnlage.test(content) ?
+            null :
+            stammdaten.getPerson(content, wp, sessionDate);
+
+        return {
+            content: content,
+            pageNumber: pageNumbersSections[i][0],
+            pageSection: pageNumbersSections[i][1],
+            redner: rednerData,
+        }
+    });
 }
 
 

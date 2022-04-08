@@ -1,30 +1,65 @@
-import moment from "moment";
+import {Moment} from "moment";
 
-export type RednerParams = { id: string, vorname: string, nachname: string };
-export type IvzEintragParams = { content: string, pageNumber: string, pageSection: string, redner?: string }
+export type RednerData = {
+    id: string,
+    titel?: string,
+    vorname: string,
+    namenszusatz?: string,
+    nachname: string,
+    ortszusatz?: string,
+    fraktion: string,
+    rolle?: string,
+    rolle_lang?: string,
+    rolle_kurz?: string,
+    bdland?: string,
+};
+
+export type IvzEintragParams = { content: string, pageNumber: string, pageSection: string, redner: RednerData | null }
 export type IvzBlockParams = { blockTitel: string, ivzEintraegeParams: IvzEintragParams[] };
-export type KopfdatenParams = { period: string, sessionNr: string, locationDate: string };
+export type KopfdatenParams = { period: string, sessionNr: string, location: string, dateDayText: string, date: Moment };
 export type VorspannParams = { kopfdaten: string, ivzEintraegeBloecke: string[] };
 
 
-export function redner({id, vorname, nachname}: RednerParams) {
+export function redner(data: RednerData) {
     // TODO missing "rolle" here
+    const {
+        id,
+        titel,
+        vorname,
+        namenszusatz,
+        nachname,
+        ortszusatz,
+        fraktion,
+        rolle,
+        rolle_lang,
+        rolle_kurz,
+        bdland,
+    } = data;
 
     return `
                         <redner id="${id}">
                             <name>
-                                <vorname>${vorname}</vorname>
-                                <nachname>${nachname}</nachname>
+                                ${titel ? `<titel>${titel}</titel>` : ""}
+                                ${vorname ? `<vorname>${vorname}</vorname>` : ""}
+                                ${namenszusatz ? `<namenszusatz>${namenszusatz}</namenszusatz>` : ""}
+                                ${nachname ? `<nachname>${nachname}</nachname>` : ""}
+                                ${ortszusatz ? `<ortszusatz>${ortszusatz}</ortszusatz>` : ""}
+                                ${fraktion ? `<fraktion>${fraktion}</fraktion>` : ""}
+                                ${rolle ? `<rolle>${rolle}</rolle>` : ""}
+                                ${rolle_lang ? `<rolle_lang>${rolle_lang}</rolle_lang>` : ""}
+                                ${rolle_kurz ? `<rolle_kurz>${rolle_kurz}</rolle_kurz>` : ""}
+                                ${bdland ? `<bdland>${bdland}</bdland>` : ""}
                             </name>
                         </redner>`
 }
 
-export function ivzEintrag({content, pageNumber, pageSection, redner}: IvzEintragParams) {
+export function ivzEintrag(data: IvzEintragParams) {
+
     return `			<ivz-eintrag>
-				<ivz-eintrag-inhalt>${redner || ""}${content}</ivz-eintrag-inhalt>
-				<a href="${"S" + pageNumber}" typ="druckseitennummer">
-					<seite>${pageNumber}</seite>
-					<seitenbereich>${pageSection}</seitenbereich>
+				<ivz-eintrag-inhalt>${data.redner ? redner(data.redner) : ""}${data.content}</ivz-eintrag-inhalt>
+				<a href="${"S" + data.pageNumber}" typ="druckseitennummer">
+					<seite>${data.pageNumber}</seite>
+					<seitenbereich>${data.pageSection}</seitenbereich>
 				</a>
 			</ivz-eintrag>
 	`;
@@ -39,16 +74,7 @@ export function ivzBlock({blockTitel, ivzEintraegeParams}: IvzBlockParams) {
     `;
 }
 
-
-export function kopfdaten({period, sessionNr, locationDate}: KopfdatenParams) {
-    const location = locationDate.split(",")[0];
-    const dateDayText = locationDate.split(", ").slice(1).join(", ");
-
-    const dateOnlyText = locationDate.split(" ").slice(-3).join(", ")
-    const inputFormat = 'D. MMMM YYYY';
-    const day = moment(dateOnlyText, inputFormat, "de");
-    const parsedDate = day.format("D.MM.YYYY");
-
+export function kopfdaten({period, sessionNr, location, dateDayText, date}: KopfdatenParams) {
     return `		<kopfdaten>
 			<plenarprotokoll-nummer>Plenarprotokoll <wahlperiode>${period}</wahlperiode>/<sitzungsnr>${sessionNr}</sitzungsnr>
 			</plenarprotokoll-nummer>
@@ -57,7 +83,7 @@ export function kopfdaten({period, sessionNr, locationDate}: KopfdatenParams) {
 			<sitzungstitel>
 				<sitzungsnr>${sessionNr}</sitzungsnr>. Sitzung</sitzungstitel>
 			<veranstaltungsdaten>
-				<ort>${location}</ort>, <datum date="${parsedDate}">${dateDayText}</datum>
+				<ort>${location}</ort>, <datum date="${date.format("D.MM.YYYY")}">${dateDayText}</datum>
 			</veranstaltungsdaten>
 		</kopfdaten>
 	`;
