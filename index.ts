@@ -1,244 +1,76 @@
-import pdfjs, {PDFPageProxy} from "pdfjs-dist/legacy/build/pdf.js";
+import pdfjs from "pdfjs-dist/legacy/build/pdf.js";
 import * as templates from "./xml-templates.mjs";
-import {TextContent, TextItem} from "pdfjs-dist/types/src/display/api";
-import {ivzBlock, IvzBlockParams, ivzEintrag, IvzEintragParams, KopfdatenParams, RednerData} from "./xml-templates.mjs";
-import {loadStammdatenForWp} from "./stammdaten.js";
-import {Moment} from "moment";
-import {parseLocationDate} from "./utils.js";
-
-// Split Stammdaten, if not already. Uncomment this lines and comment everything else out.
-// generateStammdatenByWp()
-// process.exit();
-
-// load ToS file and the stammdaten for the correct wp
-const path = String.raw`../../../18001-tos.pdf`;
-const doc = await pdfjs.getDocument(path).promise;
-
-const stammdaten = loadStammdatenForWp("18");
-
-// a delimiter better than ","  is "µ" (it's less common and not reserved in RegEx)
-// ƒ stands for many dots . . . .
-
-
-// Extract metadata
-const metadata = await extractMetadata(await doc.getPage(1));
-
-// iterate all pages and collect metadata and tos entries
-const entries: IvzEintragParams[] = [];
-
-for (let pageNumber = 1; pageNumber < doc.numPages + 1; pageNumber++) {
-    const page = await doc.getPage(pageNumber);
-
-    // get text from document and clean it
-    const contents = await page.getTextContent();
-    let cleanText = cleanPageText(contents);
-
-    let textNoHeader;
-    // if page 1, extract metadata, else remove header
-    if (page.pageNumber === 1) {
-        // remove metadata sections and invisible "Inhaltsverzeichnis" from text
-        textNoHeader = cleanText.split("µ").slice(6).join("µ");
-        const matchInhaltsverzeichnis = /µInhaltsverzeichnis/g;
-        textNoHeader = textNoHeader.replaceAll(matchInhaltsverzeichnis, "");
-    } else {
-        // remove first couple Segments (they are the header)
-        textNoHeader = cleanText.split("µ").slice(2).join("µ");
-    }
-
-    const pageEntries = await extractTOSEntries(textNoHeader, metadata.period, metadata.date);
-
-    entries.push(...pageEntries)
-}
-
-// split entries into blocks (and single entries)
-
-const blocks = entries.reduce((arr, e) => {
-    const matchNewBlock = /^(Tagesordnungspunkt \d+: |Anlage \d+ )?(.+)/; // matches a title and puts new block starters like Anlage into group 1, the rest is in group 2 (group 1 may be empty)
-    const match = e.content.match(matchNewBlock);
-    if (match && match[1]) {
-        // add new block
-        arr.push({
-            blockTitel: match[1],
-            ivzEintraegeParams: [],
-        });
-        e.content = match[2];
-    }
-
-    if (arr.length > 0) {
-        // add entry to last block
-        const lastEntry = arr[arr.length - 1];
-        if ("blockTitel" in lastEntry) {
-            // last entry is a block
-            lastEntry.ivzEintraegeParams.push(e)
-        } else {
-            // last entry is not a block (not sure, how this would happen)
-            throw new Error("Non-block item found.")
-        }
-    } else {
-        // first entry without block; add entry without block
-        arr.push(e)
-    }
-
-    return arr;
-}, [] as Array<IvzEintragParams | IvzBlockParams>)
-
-
-// sanity checks
-if (!metadata) {
-    throw new Error("No metadata found!")
-}
-
-// generate xml
-
-const kopfdaten = templates.kopfdaten(metadata)
-
-const ivzEintraegeBloecke = blocks.map(e => {
-    if ("blockTitel" in e) {
-        // e is a block
-        return ivzBlock(e);
-    } else {
-        // e is an entry
-        return ivzEintrag(e);
-    }
-});
-
-const vorspann = templates.vorspann({kopfdaten, ivzEintraegeBloecke});
-console.log(vorspann)
-
-
-/*
-TODOs:
-	- split entries into blocks, if applicable (check if there is "Tagesordnungspunkt", or "Anlage" at the beginning)
-		there can be non-block entries at the beginning
-	- get redner ID from MBD_STAMMDATEN file by name (add error, if name is ambigous)
-	- build Rede-ID see in XREF section (https://www.bundestag.de/resource/blob/577234/4c8091d8650fe417016bb48e604e3eaf/dbtplenarprotokoll_kommentiert-data.pdf)
-*/
-
-async function extractMetadata(firstPage: PDFPageProxy): Promise<KopfdatenParams> {
-    // get text from document and clean it
-    const contents = await firstPage.getTextContent();
-    let cleanText = cleanPageText(contents);
-    const metaSegments = cleanText.split("µ").slice(0, 5);
-
-    const locationDateData = parseLocationDate(metaSegments[4]);
-
-    return {
-        period: metaSegments[0].split(/[ /]/)[1],
-        sessionNr: metaSegments[0].split(/[ /]/)[2],
-        ...locationDateData
-    }
-}
-
+import {ivzBlock, IvzBlockParams, ivzEintrag, IvzEintragParams, KopfdatenParams} from "./xml-templates.mjs";
+import {StammdatenForWP} from "./stammdaten.js";
+import fs from "fs";
+import format from "xml-formatter";
+import {entriesToEntryblocks, extractMetadata, extractTosEntries} from "./dataExtraction";
 
 /**
- *
- * @param cleanedText Clean text without metadata or header. Segments are separated by µ and entries are separated by ƒ.
- * @param wp
- * @param sessionDate
+ * Config
  */
-function extractTOSEntries(cleanedText: string, wp: string, sessionDate: Moment): IvzEintragParams[] {
-    let text = cleanedText;
+const INPUT_FILE_NAME = String.raw`18001-tos.pdf`;
+const OUTPUT_FILE_NAME = INPUT_FILE_NAME.replace(".pdf", ".xml");
 
-    // get page numbers and sections as [string, string] (name, section)
-    const lastSegment = text.split("ƒ").reverse()[0];
-    const pageNumbersSections = [...lastSegment.matchAll(/\d+ \w+/g)]
-        .map(result => result[0])
-        .map(pageNumberSection => [pageNumberSection.split(" ")[0], pageNumberSection.split(" ")[1]]);
+const INPUT_FOLDER_PATH = String.raw`../../../`;
+const OUTPUT_FOLDER_PATH = String.raw`./xml_output/`;
 
-    // remove page numbers and sections
-    text = text.split("ƒ").slice(0, -1).join("ƒ");
+/**
+ * End Config
+ */
 
-    // replace µs with whitespace
-    text = text.replaceAll("µ", " ");
+const INPUT_FILE_PATH = INPUT_FOLDER_PATH + INPUT_FILE_NAME;
+const OUTPUT_FILE_PATH = OUTPUT_FOLDER_PATH + OUTPUT_FILE_NAME;
 
-    // add entries to list
-    const entryNames = text.split("ƒ");
-
-    // sanity check
-    if (entryNames.length !== pageNumbersSections.length) {
-        throw new Error("Found page numbers and entries don't match!");
-    }
+await main();
 
 
-    return entryNames.map((content, i) => {
+async function main() {
+    // Split Stammdaten, if not already. Uncomment this lines and comment everything else out.
+    // generateStammdatenByWp()
+    // process.exit();
 
-        console.log("\n" + content)
+    // load ToS file and the stammdaten for the correct wp
+    const doc = await pdfjs.getDocument(INPUT_FILE_PATH).promise;
 
-        // Tagesordnungspunkt, Anlage cannot contain Redner
-        const matchStartsWithTopAnlage = /^(Tagesordnungspunkt|Anlage)/;
+    const stammdaten = StammdatenForWP.loadStammdatenForWp("18");
 
-        const rednerData: RednerData | null = matchStartsWithTopAnlage.test(content) ?
-            null :
-            stammdaten.getPerson(content, wp, sessionDate);
+    const metadata = await extractMetadata(await doc.getPage(1));
+    const entries = await extractTosEntries(stammdaten, doc, metadata);
+    const blocks = entriesToEntryblocks(entries);
 
-        return {
-            content: content,
-            pageNumber: pageNumbersSections[i][0],
-            pageSection: pageNumbersSections[i][1],
-            redner: rednerData,
+    const xml = generateXml(metadata, blocks);
+    console.log(xml)
+
+    // write Xml file
+    fs.writeFileSync(OUTPUT_FILE_PATH, xml, "utf-8");
+    console.log("Wrote file " + OUTPUT_FILE_PATH);
+}
+
+/**
+ * Generates an XML string.
+ * @param metadata
+ * @param blocks
+ */
+function generateXml(metadata: KopfdatenParams, blocks: Array<IvzBlockParams | IvzEintragParams>) {
+    const kopfdaten = templates.kopfdaten(metadata)
+
+    const ivzEintraegeBloecke = blocks.map(e => {
+        if ("blockTitel" in e) {
+            // e is a block
+            return ivzBlock(e);
+        } else {
+            // e is an entry
+            return ivzEintrag(e);
         }
     });
-}
 
+    const vorspann = templates.vorspann({kopfdaten, ivzEintraegeBloecke});
 
-/**
- * Cleans a pages text formatting for further processing or data extraction. No information is removed here.
- * @param textContents Raw contents from document.
- * @returns {string} Clean text without metadata or header. Segments are separated by µ and entries are separated by ƒ.
- */
-function cleanPageText(textContents: TextContent) {
-    let text = textContents.items.map(item => (item as TextItem).str).join("µ")
+    const formattedXml = format(vorspann, {
+        indentation: '  ',
+        collapseContent: true,
+    });
 
-    // clean text content
-    // remove hyphens
-    // there might be empty space before the actual hyphen
-    // there are two types of hyphen. This type is only used to split a word
-    const matchHyphensBeforeDelimiter = /[ µ]*-µ/g;
-    text = text.replaceAll(matchHyphensBeforeDelimiter, "");
-
-    // replace dots with ƒ
-    const matchManyDotsWithSpaces = /(?:\. ?){2,}/g;
-    text = text.replaceAll(matchManyDotsWithSpaces, "ƒ");
-
-    // reduce multiple delimiters to one
-    const matchMultipleDelimiters = /µµ+/g;
-    text = text.replaceAll(matchMultipleDelimiters, "µ");
-
-    // detect and fix justified alignment (Blocksatz)
-    // join single word segments
-    const matchWordsWithSpaceFollowing = /µ([\wäöüß]+)µ /g; // single word with space following => remove delimiter at end: "µ$1 "
-    const matchMultipleWordsWithDelimitersAtBeginning = /µ[\wäöüß]+ (?:µ[\wäöüß]+ )*µ[\wäöüß]+/g; // multiple words with delimiters only at their beginning
-
-    text = text.replaceAll(matchWordsWithSpaceFollowing, "µ$1 ");
-    [...text.matchAll(matchMultipleWordsWithDelimitersAtBeginning)].forEach(m => {
-        // remove the delimiter for every single word
-        const newText = m[0].replaceAll(" µ", " ");
-        text = text.replace(m[0], newText);
-    })
-
-    // merge bullet points with next line
-    const matchBulletPoint = /–µ µ/g;
-    text = text.replaceAll(matchBulletPoint, "– ");
-
-    // remove randomly repeating µs
-    const matchRepeatingMu = /µ µ/g;
-    text = text.replaceAll(matchRepeatingMu, "µ");
-
-    // repair false whitespaces after slashes (e.g. in party names) ((BÜNDNIS 90/µDIE GRÜNEN) => (BÜNDNIS 90/DIE GRÜNEN))
-    const matchSlashWhitespace = /\/µ/g;
-    text = text.replaceAll(matchSlashWhitespace, "/");
-
-    // remove spaces around µ
-    const matchMuWithWhitespace = /( +µ)|(µ +)|( +µ +)/g;
-    text = text.replaceAll(matchMuWithWhitespace, "µ");
-
-    // remove spaces around ƒ
-    const matchF = /( +ƒ)|(ƒ +)|( +ƒ +)/g;
-    text = text.replaceAll(matchF, "ƒ");
-
-    // remove µs around ƒ
-    const matchFSurroundedByMu = /µ?ƒµ?/g;
-    text = text.replaceAll(matchFSurroundedByMu, "ƒ");
-
-    return text;
+    return formattedXml;
 }

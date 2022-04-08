@@ -21,7 +21,6 @@ export type VorspannParams = { kopfdaten: string, ivzEintraegeBloecke: string[] 
 
 
 export function redner(data: RednerData) {
-    // TODO missing "rolle" here
     const {
         id,
         titel,
@@ -36,8 +35,7 @@ export function redner(data: RednerData) {
         bdland,
     } = data;
 
-    return `
-                        <redner id="${id}">
+    return `<redner id="${id}">
                             <name>
                                 ${titel ? `<titel>${titel}</titel>` : ""}
                                 ${vorname ? `<vorname>${vorname}</vorname>` : ""}
@@ -55,7 +53,7 @@ export function redner(data: RednerData) {
 
 export function ivzEintrag(data: IvzEintragParams) {
 
-    return `			<ivz-eintrag>
+    return `<ivz-eintrag>
 				<ivz-eintrag-inhalt>${data.redner ? redner(data.redner) : ""}${data.content}</ivz-eintrag-inhalt>
 				<a href="${"S" + data.pageNumber}" typ="druckseitennummer">
 					<seite>${data.pageNumber}</seite>
@@ -66,8 +64,7 @@ export function ivzEintrag(data: IvzEintragParams) {
 }
 
 export function ivzBlock({blockTitel, ivzEintraegeParams}: IvzBlockParams) {
-    return `
-            <ivz-block>
+    return `<ivz-block>
                 <ivz-block-titel>${blockTitel}</ivz-block-titel>
 		    ${ivzEintraegeParams.map(ivzEintrag).join("")}
 		    </ivz-block>    
@@ -75,7 +72,7 @@ export function ivzBlock({blockTitel, ivzEintraegeParams}: IvzBlockParams) {
 }
 
 export function kopfdaten({period, sessionNr, location, dateDayText, date}: KopfdatenParams) {
-    return `		<kopfdaten>
+    return `<kopfdaten>
 			<plenarprotokoll-nummer>Plenarprotokoll <wahlperiode>${period}</wahlperiode>/<sitzungsnr>${sessionNr}</sitzungsnr>
 			</plenarprotokoll-nummer>
 			<herausgeber>Deutscher Bundestag</herausgeber>
