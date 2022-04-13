@@ -1,7 +1,7 @@
 import jsdom from "jsdom";
 import fs from "fs";
-import {RednerData} from "./xml-templates.mjs";
-import {parseStammdatenDate} from "./utils.js";
+import {RednerData} from "./xml-templates.js";
+import {parseStammdatenDate} from "./timeParsing.js";
 import {Moment} from "moment";
 
 const STAMMDATEN_FILE = "./MDB_STAMMDATEN.XML";
@@ -163,6 +163,6 @@ export function generateStammdatenByWp() {
         const stammdatenWP = generateStammdatenForWp(String(wp));
         fs.writeFileSync(`./stammdaten_by_wp/MDB_STAMMDATEN_WP${wp}.xml`, stammdatenWP, "utf-8");
 
-        console.log("wrote wp " + wp)
+        console.log("Wrote Stammdaten for WP " + wp)
     }
 }

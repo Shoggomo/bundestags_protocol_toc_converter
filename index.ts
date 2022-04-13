@@ -1,79 +1,31 @@
 import pdfjs from "pdfjs-dist/legacy/build/pdf.js";
-import * as templates from "./xml-templates.mjs";
-import {ivzBlock, IvzBlockParams, ivzEintrag, IvzEintragParams, KopfdatenParams} from "./xml-templates.mjs";
-import {StammdatenForWP} from "./stammdaten.js";
+import * as templates from "./xml-templates.js";
+import {ivzBlock, IvzBlockParams, ivzEintrag, IvzEintragParams, KopfdatenParams} from "./xml-templates.js";
+import {generateStammdatenByWp, StammdatenForWP} from "./stammdaten.js";
 import fs from "fs";
 import format from "xml-formatter";
-import {entriesToEntryblocks, extractMetadata, extractTosEntries} from "./dataExtraction.js";
+import {entriesToEntryblocks, extractMetadata, extractTosEntries} from "./dataExtraction/dataExtraction.js";
 import {PDFDocumentProxy} from "pdfjs-dist/legacy/build/pdf";
-
-/**
- * Config
- */
-// TODO put these in start parameters
-// const WP = "18";
-// const INPUT_FILE_NAME = String.raw`18007-tos.pdf`;
-
-// const INPUT_FOLDER_PATH = "C:\\Users\\VanClausewicz\\Uni - Master\\1. Semester\\Forschungsseminar Digital Humanities\\Bundestagsprotokolle WP1-18\\WP18\\tos\\";
-
-// files to be skipped, maybe they don't work with this script.
-const SKIP_FILES: string[] = [
-    "18001.pdf",
-    "18002.pdf",
-    "18003.pdf",
-    "18004.pdf",
-    "18005.pdf",
-    "18006.pdf",
-    "18007.pdf",
-    "18008.pdf",
-    "18009.pdf",
-    "18010.pdf",
-    "18011.pdf",
-    "18012.pdf",
-    "18013.pdf",
-    "18014.pdf",
-    "18015.pdf",
-    "18016.pdf",
-    "18017.pdf",
-    "18018.pdf",
-    "18019.pdf",
-    "18020.pdf",
-    "18021.pdf",
-    "18022.pdf",
-    "18023.pdf",
-    "18024.pdf",
-    "18025.pdf",
-    "18026.pdf",
-    "18027.pdf",
-    "18028.pdf",
-    "18029.pdf",
-    "18030.pdf",
-    "18031.pdf",
-    "18032.pdf",
-    "18033.pdf",
-    "18034.pdf",
-    "18035.pdf",
-    "18036.pdf",
-    "18037.pdf",
-    "18038.pdf",
-    "18039.pdf",
-    "18040.pdf",
-];
-
-const OUTPUT_FOLDER_PATH = String.raw`./xml_output/`;
-
-/**
- * End Config
- */
-
-// const INPUT_FILE_PATH = INPUT_FOLDER_PATH + INPUT_FILE_NAME;
+import {
+    ENABLE_OUTPUT,
+    GENERATE_STAMMDATEN,
+    ONLY_FILES,
+    OUTPUT_FOLDER_PATH,
+    RUN_ASYNCHRONOUS,
+    SKIP_FILES
+} from "./Config.js";
 
 await main();
 
 async function main() {
-    // Split Stammdaten, if not already. Uncomment this lines and comment everything else out.
-    // generateStammdatenByWp()
-    // process.exit();
+
+    if (GENERATE_STAMMDATEN) {
+        // Generate Stammdaten files and exit.
+        console.log("Generating Stammdaten files and putting them in stammdaten_by_wp. This will take a while.")
+        generateStammdatenByWp()
+        console.log("Done. Exiting.")
+        process.exit(0);
+    }
 
     const [wp, inputFolder] = getCliArguments();
 
@@ -84,32 +36,49 @@ async function main() {
     console.log(`Converting all PDF files in ${inputFolder}`)
     const pdfFiles = fs.readdirSync(inputFolder)
         .filter(file => file.endsWith(".pdf"))
-        .filter(file => !SKIP_FILES.includes(file))
-        .map(file => inputFolder + file)
+        .filter(file => ONLY_FILES.length === 0 || ONLY_FILES.includes(file))
+        .filter(file => !SKIP_FILES.includes(file));
 
-    for (const file of pdfFiles) {
+
+    if (RUN_ASYNCHRONOUS) {
+        for (const file of pdfFiles) {
+            processFile(inputFolder, stammdaten, file);
+        }
+    } else {
+        for (const file of pdfFiles) {
+            await processFile(inputFolder, stammdaten, file);
+        }
+    }
+}
+
+async function processFile(inputFolder: string, stammdaten: StammdatenForWP, file: string) {
+    try {
         console.log(`Converting file ${file}...`)
-        const doc = await pdfjs.getDocument(file).promise;
+        const doc = await pdfjs.getDocument(inputFolder + file).promise;
 
-        const [metadata, xml] = await convertTosDocumentToXml(stammdaten, doc);
+        const [metadata, xml] = await convertTosDocumentToXml(stammdaten, doc, file);
 
-        // write Xml file
-        const outputFilePath = `${OUTPUT_FOLDER_PATH}${metadata.period.padStart(2, "0")}${metadata.sessionNr.padStart(3, "0")}-vorspann.xml`;
-        fs.writeFileSync(outputFilePath, xml, "utf-8");
-        console.log("Wrote file " + outputFilePath);
+        if (ENABLE_OUTPUT) {
+            // write Xml file
+            const outputFilePath = `${OUTPUT_FOLDER_PATH}${metadata.period.padStart(2, "0")}${metadata.sessionNr.padStart(3, "0")}-vorspann.xml`;
+            fs.writeFileSync(outputFilePath, xml, "utf-8");
+            console.log(`Wrote file ${outputFilePath}\n`);
+        } else {
+            console.log(`Processed file ${file}\n`);
+        }
+    } catch (e) {
+        console.error(`Conversion failed. Skipping file ${file}.\n${e}\n`)
     }
 }
 
 
-async function convertTosDocumentToXml(stammdaten: StammdatenForWP, doc: PDFDocumentProxy): Promise<[KopfdatenParams, string]> {
-    const metadata = await extractMetadata(await doc.getPage(1));
-    const entries = await extractTosEntries(stammdaten, doc, metadata);
+async function convertTosDocumentToXml(stammdaten: StammdatenForWP, doc: PDFDocumentProxy, filename: string): Promise<[KopfdatenParams, string]> {
+    const metadata = await extractMetadata(await doc.getPage(1), filename);
+    const entries = await extractTosEntries(stammdaten, doc, metadata, filename);
     const blocks = entriesToEntryblocks(entries);
 
     const xml = generateXml(metadata, blocks);
     return [metadata, xml];
-    // console.log(xml)
-
 }
 
 /**

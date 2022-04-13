@@ -11,6 +11,11 @@ export function parseLocationDate(locationDate: string) {
     const dateOnlyText = locationDate.split(" ").slice(-3).join(", ")
     const date = parseHeaderDate(dateOnlyText);
 
+    // sanity checks
+    if(!date.isValid()){
+        throw new Error("Error parsing date. Tried to parse: " + locationDate);
+    }
+
     return {location, dateDayText, date}
 }
 

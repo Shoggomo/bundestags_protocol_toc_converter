@@ -1,9 +1,11 @@
 import {TextContent, TextItem} from "pdfjs-dist/types/src/display/api";
-import {StammdatenForWP} from "./stammdaten.js";
+import {StammdatenForWP} from "../stammdaten.js";
 import {PDFDocumentProxy, PDFPageProxy} from "pdfjs-dist/legacy/build/pdf";
-import {IvzBlockParams, IvzEintragParams, KopfdatenParams, RednerData} from "./xml-templates.mjs";
+import {IvzBlockParams, IvzEintragParams, KopfdatenParams, RednerData} from "../xml-templates.js";
 import {Moment} from "moment";
-import {parseLocationDate} from "./utils.js";
+import {parseLocationDate} from "../timeParsing.js";
+import {SKIP_PAGES} from "../Config.js";
+import {postEntryProcessingFix, preEntryProcessingFixes} from "./specialCases.js";
 
 
 /*
@@ -23,22 +25,69 @@ export const matchBlockmarkers = `^(${[
     "Zur Geschäftsordnung",
 ].join("|")})`;
 
+/**
+ * Matches a page number with potential sections following.
+ * Groups:
+ *  1. Page numbers (e.g. 123)
+ *  2. Page sections (e.g. A or B/D)
+ * Example matches:
+ *  123
+ *  123 A
+ *  123 B/D
+ */
+export const matchPageNumberAndSectionOnly = String.raw`(\d+) ?([ABCD](?:\/[ABCD])?)`;
+
+/**
+ * Matches text, that begins with a page number and sections (optional) and the following text (optional).
+ * Groups:
+ *  1. Page numbers (e.g. 123)
+ *  2. Page sections (e.g. A or B/D)
+ *  3. Text following
+ * Example matches:
+ *  213 AµVersammlung blah.
+ *  123 B/C
+ *  3123µBesprechung über blah
+ */
+const matchPageNumbersWithFollowingTextAtBeginning = `^${matchPageNumberAndSectionOnly}µ?((?:.+)?)`;
+
 
 /**
  * Extracts metadata from the first protocol page.
  * @param firstPage
+ * @param filename
  */
-export async function extractMetadata(firstPage: PDFPageProxy): Promise<KopfdatenParams> {
+export async function extractMetadata(firstPage: PDFPageProxy, filename: string): Promise<KopfdatenParams> {
     // get text from document and clean it
     const contents = await firstPage.getTextContent();
-    let entries = extractEntries(contents);
-    const metaSegments = entries[0].split("µ").slice(0, 5);
+    let entries = extractEntries(contents, filename);
+    let header = entries[0];
+
+    // Sometimes the session number and ". Sitzung" text are separated in two sections (e.g. "201µ. Sitzung").
+    // Normally they are in one section (e.g. "199. Sitzung").
+    // Here we remove a section end after the session number.
+    const matchSectionEndAfterSessionNr = /µ(\d{1,3})µ\./;
+    header = header.replace(matchSectionEndAfterSessionNr, "µ$1.")
+
+    const metaSegments = header.split("µ").slice(0, 5);
 
     const locationDateData = parseLocationDate(metaSegments[4]);
 
+    const [, period, sessionNr] = metaSegments[0].split(/[ /]/);
+
+    // sanity checks
+    const matchPeriod = /\d\d?/;
+    if (!matchPeriod.test(period)) {
+        throw new Error("No fitting period found in metadata. Found: " + period);
+    }
+
+    const matchSessionNr = /\d{1,3}/;
+    if (!matchSessionNr.test(sessionNr)) {
+        throw new Error("No fitting session number found in metadata. Found: " + sessionNr);
+    }
+
     return {
-        period: metaSegments[0].split(/[ /]/)[1],
-        sessionNr: metaSegments[0].split(/[ /]/)[2],
+        period,
+        sessionNr,
         ...locationDateData
     }
 }
@@ -49,23 +98,27 @@ export async function extractMetadata(firstPage: PDFPageProxy): Promise<Kopfdate
  * @param doc
  * @param metadata
  */
-export async function extractTosEntries(stammdaten: StammdatenForWP, doc: PDFDocumentProxy, metadata: KopfdatenParams) {
+export async function extractTosEntries(stammdaten: StammdatenForWP, doc: PDFDocumentProxy, metadata: KopfdatenParams, filename: string) {
     const entries: IvzEintragParams[] = [];
     let lastCutOfEntryContent = "";
 
-    for (let pageNumber = 1; pageNumber < doc.numPages + 1; pageNumber++) {
+    for (let pageNumber = 1 + SKIP_PAGES; pageNumber < doc.numPages + 1; pageNumber++) {
         const page = await doc.getPage(pageNumber);
 
         // get text from document and clean it
         const contents = await page.getTextContent();
-        let pageEntries = extractEntries(contents);
+        let pageEntries = extractEntries(contents, filename);
 
         // remove header
         if (page.pageNumber === 1) {
-            // remove metadata sections and invisible "Inhaltsverzeichnis" from text
-            pageEntries[0] = pageEntries[0].split("µ").slice(6).join("µ");
+            // remove metadata sections (everything up to "Inhalt:µ" or "I n h a l t :µ")
+            const matchInhalt = /^.+(?:(?:Inhalt)|(?:I n h a l t )):µ/;
+            pageEntries[0] = pageEntries[0].replace(matchInhalt, "");
+
+            // remove invisible "Inhaltsverzeichnis" text. It's at the end of the first page.
+            const lastIndex = pageEntries.length-1;
             const matchInhaltsverzeichnis = /µInhaltsverzeichnis/g;
-            pageEntries[0] = pageEntries[0].replace(matchInhaltsverzeichnis, "");
+            pageEntries[lastIndex] = pageEntries[lastIndex].replace(matchInhaltsverzeichnis, "");
         } else {
             // remove first couple Segments (they are the header)
             pageEntries[0] = pageEntries[0].split("µ").slice(2).join("µ");
@@ -126,89 +179,47 @@ export function entriesToEntryblocks(entries: IvzEintragParams[]) {
 function extractTOSEntriesFromPage(stammdaten: StammdatenForWP, entries: string[], wp: string, sessionDate: Moment, lastCutOffEntryContent: string): [IvzEintragParams[], string] {
     let newCutOffEntryContent = "";
 
-    // get page numbers and sections as [string, string] (name, section)
-    let pageNumbersSections: Array<[string, string]>;
-
-    /**
-     * Matches a page number with potential sections following.
-     * Groups:
-     *  1. Page numbers (e.g. 123)
-     *  2. Page sections (e.g. A or B/D)
-     * Example matches:
-     *  123
-     *  123 A
-     *  123 B/D
-     */
-    const matchPageNumberAndSectionOnly = "(\\d+) ?([ABCD\/]{0,3})";
-
-    /**
-     * Matches text, that begins with a page number and sections (optional) and the following text (optional).
-     * Groups:
-     *  1. Page numbers (e.g. 123)
-     *  2. Page sections (e.g. A or B/D)
-     *  3. Text following
-     * Example matches:
-     *  213 AµVersammlung blah.
-     *  123 B/C
-     *  3123µBesprechung über blah
-     */
-    const matchPageNumbersWithFollowingTextAtBeginning = `^${matchPageNumberAndSectionOnly}µ?((?:.+)?)`;
-
-    // page numbers can stand before in front of the following entry, or altogether as the last section
-    if (entries.slice(1).every(entry => entry.match(matchPageNumbersWithFollowingTextAtBeginning))) {
-        console.log("Page numbers are in front of entries.")
-
-        // extract page numbers, skip first page
-        pageNumbersSections = entries.slice(1).map((entry, index, array) => {
-            const [, pageNumber, pageSection, content] = entry.match(matchPageNumbersWithFollowingTextAtBeginning) || ["", "", ""];
-
-            if (!pageNumber) throw new Error("Could not find page at the beginning of " + entry);
-
-            // Save the content of the last entry. Normally there is none. If there is it is cut off and belongs to the next page.
-            if (index === array.length - 1){
-                newCutOffEntryContent = content;
-            }
-            return [pageNumber, pageSection];
-        });
-
-        // Remove page numbers from entries, skipping first entry, remove and save potentially cut of content at last entry
-        entries = [entries[0], ...entries.slice(1, -1).map(entry => {
-            // match page numbers and page sections at the beginning and following text
-            const match = entry.match(`^${matchPageNumberAndSectionOnly}µ?(.+)`);
-            if (!match?.[3]) throw new Error("Could not fine name of entry in " + entry);
-            return match[3];
-        })]
-    } else {
-        console.log("Page numbers are in the last section.")
-        const lastSegment = entries.slice().reverse()[0];
-        // TODO if there is no page number for the last page, save the cut off content
-        pageNumbersSections = [...lastSegment.matchAll(new RegExp(matchPageNumberAndSectionOnly, "g"))]
-            .map(result => result[0])
-            .map(pageNumberSection => [pageNumberSection.split(" ")[0], pageNumberSection.split(" ")[1]]);
-        entries = entries.slice(0, -1);
+    // Check, if every entry has a page number
+    if (!entries.slice(1).every(entry => entry.match(matchPageNumbersWithFollowingTextAtBeginning))) {
+        console.log(JSON.stringify(entries));
+        throw new Error(`Found page numbers and entries don't match!`);
     }
 
-    // Add the (potentially existing) last cut of entry content to the first entry
+    // Check, if the current page is a white page. If so, return no entries.
+    if(entries.length === 0 || entries.every(entry => entry.trim() === "")){
+        console.log("White page found. Skipping.")
+        return [[], ""];
+    }
+
+    // Extract page numbers. At the beginning of every entry is the number of the last entry, so we skip the first entry.
+    // The entry extraction could be improved, that this is not necessary.
+    const pageNumbersSections: Array<[string, string]> = entries.slice(1).map((entry, index, array) => {
+        const [, pageNumber, pageSection, content] = entry.match(matchPageNumbersWithFollowingTextAtBeginning) || ["", "", ""];
+
+        if (!pageNumber) throw new Error("Could not find page number at the beginning of " + entry);
+
+        // Save the content of the last entry. Normally there is none. If there is it is cut off and belongs to the next page.
+        if (index === array.length - 1) {
+            newCutOffEntryContent = content;
+        }
+        return [pageNumber, pageSection];
+    });
+
+    // Remove page numbers from entries, skipping first entry, remove and save potentially cut of content at last entry
+    entries = [entries[0], ...entries.slice(1, -1).map(entry => {
+        // match page numbers and page sections at the beginning and following text
+        const match = entry.match(`^${matchPageNumberAndSectionOnly}µ?(.+)`);
+        if (!match?.[3]) throw new Error("Could not fine name of entry in " + entry);
+        return match[3];
+    })]
+
+    // Add the (potentially existing) last cut off entry content from the last page to the first entry fro this page
     if (entries[0]) {
         entries[0] = `${lastCutOffEntryContent} ${entries[0]}`.trim();
     }
 
     // replace µs with whitespace
     entries = entries.map(entry => entry.replaceAll("µ", " "))
-
-    // sanity check
-    if (entries.length !== pageNumbersSections.length) {
-        // Check, if the page is a white page, or is there an actual problem?
-        if (entries.every(entry => entry.trim() === "")) {
-            // It's just a white page. Return no new entries.
-            console.log("White page found. Skipping.")
-            return [[], ""];
-        } else {
-            console.log(JSON.stringify(entries));
-            throw new Error(`Found page numbers and entries don't match! ${entries.length} entries found and ${pageNumbersSections.length} page numbers found.`);
-        }
-    }
-
 
     return [
         entries.map((content, i) => {
@@ -232,10 +243,14 @@ function extractTOSEntriesFromPage(stammdaten: StammdatenForWP, entries: string[
 /**
  * Extracts single entries from a page.
  * @param textContents Raw contents from document.
+ * @param filename
  * @returns string[] List with page entries. Segments are separated by µ.
  */
-function extractEntries(textContents: TextContent) {
+function extractEntries(textContents: TextContent, filename: string) {
     let text = textContents.items.map(item => (item as TextItem).str).join("µ")
+
+    // Fix single errors before further processing.
+    text = preEntryProcessingFixes(text, filename);
 
     // clean text content
     // remove hyphens
@@ -244,9 +259,13 @@ function extractEntries(textContents: TextContent) {
     const matchHyphensBeforeDelimiter = /[ µ]*-µ/g;
     text = text.replaceAll(matchHyphensBeforeDelimiter, "");
 
-    // replace sections ending with spaced dots with ƒ
+    // replace spaced dots, that are followed by a page number with ƒ ("Stefan Müller . . . . . . .µ µ123" => Stefan Müllerƒ123)
+    const matchManyDotsWithSpacesFollowedByPageNumber = RegExp(` ?(?:\\. )*\\.?µ µ${matchPageNumberAndSectionOnly}(?:µ|$)`, "g");
+    text = text.replaceAll(matchManyDotsWithSpacesFollowedByPageNumber, "ƒ$1 $2");
+
+    // remove other spaced dots (these are normally wrong formatting)
     const matchManyDotsWithSpaces = /(?:\. )+\.µ/g;
-    text = text.replaceAll(matchManyDotsWithSpaces, "ƒ");
+    text = text.replaceAll(matchManyDotsWithSpaces, "");
 
     // reduce multiple delimiters to one
     const matchMultipleDelimiters = /µµ+/g;
@@ -293,10 +312,8 @@ function extractEntries(textContents: TextContent) {
     const matchSpacedSpecialLetters = /µ([ğ])µ/g;
     text = text.replaceAll(matchSpacedSpecialLetters, "$1");
 
-    /* Single anomalies */
-    // In 18041 the text "Einzelfall 01" is falsely matched as a complete entry (formatting mistake by the stenographer)
-    const matchWrongEinzelfallEntry = /Einzelplan 01ƒBundespräsident/;
-    text = text.replace(matchWrongEinzelfallEntry, "Einzelplan 01 Bundespräsident");
+    // Fix single errors.
+    text = postEntryProcessingFix(text, filename);
 
     // split into entries
     let entries = text.split("ƒ");
