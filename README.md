@@ -1,5 +1,7 @@
 # Bundestags protocol TOS converter
 
+> **Note**: This script currently was only tested with the protocols of the 18. Wahlperiode.
+
 This tool converts the table of contents of a Bundestags protocol PDF file in their new XML format.
 
 All protocols, that are sure to work are already converted and provided in the `xml_output` folder.
