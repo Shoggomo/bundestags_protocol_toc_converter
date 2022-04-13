@@ -1,0 +1,485 @@
+<vorspann>
+  <kopfdaten>
+    <plenarprotokoll-nummer>
+      Plenarprotokoll
+      <wahlperiode>18</wahlperiode>
+      /
+      <sitzungsnr>200</sitzungsnr>
+    </plenarprotokoll-nummer>
+    <herausgeber>Deutscher Bundestag</herausgeber>
+    <berichtart>Stenografischer Bericht</berichtart>
+    <sitzungstitel>
+      <sitzungsnr>200</sitzungsnr>
+      . Sitzung
+    </sitzungstitel>
+    <veranstaltungsdaten>
+      <ort>Berlin</ort>
+      ,
+      <datum date="11.11.2016">Freitag, den 11. November 2016</datum>
+    </veranstaltungsdaten>
+  </kopfdaten>
+  <inhaltsverzeichnis>
+    <ivz-titel>Inhalt:</ivz-titel>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 36: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften Drucksachen 18/8034, 18/8333, 18/8461 Nr. 1.5, 18/10280, 18/10056</ivz-eintrag-inhalt>
+        <a href="S19995" typ="druckseitennummer">
+          <seite>19995</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001501"><name><vorname>Maria</vorname><nachname>Michalk</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Maria Michalk (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S19995" typ="druckseitennummer">
+          <seite>19995</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004446"><name><vorname>Birgit</vorname><nachname>Wöllert</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Birgit Wöllert (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S19997" typ="druckseitennummer">
+          <seite>19997</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004413"><name><vorname>Martina</vorname><nachname>Stamm-Fibich</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Martina Stamm-Fibich (SPD)</ivz-eintrag-inhalt>
+        <a href="S19998" typ="druckseitennummer">
+          <seite>19998</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004405"><name><vorname>Kordula</vorname><nachname>Schulz-Asche</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Kordula Schulz-Asche (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S19999" typ="druckseitennummer">
+          <seite>19999</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003797"><name><titel>Prof. Dr.</titel><vorname>Karl</vorname><nachname>Lauterbach</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dr. Karl Lauterbach (SPD)</ivz-eintrag-inhalt>
+        <a href="S20000" typ="druckseitennummer">
+          <seite>20000</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004405"><name><vorname>Kordula</vorname><nachname>Schulz-Asche</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Kordula Schulz-Asche (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20000" typ="druckseitennummer">
+          <seite>20000</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004311"><name><vorname>Erich</vorname><nachname>Irlstorfer</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Erich Irlstorfer (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20000" typ="druckseitennummer">
+          <seite>20000</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004033"><name><titel>Dr.</titel><vorname>Edgar</vorname><nachname>Franke</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dr. Edgar Franke (SPD)</ivz-eintrag-inhalt>
+        <a href="S20001" typ="druckseitennummer">
+          <seite>20001</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004241"><name><vorname>Stephan</vorname><nachname>Albani</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Stephan Albani (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20002" typ="druckseitennummer">
+          <seite>20002</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Namentliche Abstimmung</ivz-eintrag-inhalt>
+        <a href="S20003" typ="druckseitennummer">
+          <seite>20003</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Ergebnis</ivz-eintrag-inhalt>
+        <a href="S20006" typ="druckseitennummer">
+          <seite>20006</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 37: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>a) Unterrichtung durch die Bundesregierung: Nationaler Bildungsbericht – Bildung in Deutschland 2016 und Stellungnahme der Bundesregierung Drucksache 18/10100</ivz-eintrag-inhalt>
+        <a href="S20004" typ="druckseitennummer">
+          <seite>20004</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>b) Unterrichtung durch die Bundesregierung: Bericht zum Anerkennungsgesetz 2016 Drucksache 18/8825</ivz-eintrag-inhalt>
+        <a href="S20004" typ="druckseitennummer">
+          <seite>20004</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003756"><name><vorname>Kai</vorname><nachname>Gehring</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>c) Antrag der Abgeordneten Özcan Mutlu, Kai Gehring, Beate Walter-Rosenheimer, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Nationaler Bildungsbericht – Bildungsinstitutionen zukunftsfest machen – Für eine gerechte und soziale Gesellschaft Drucksache 18/10248</ivz-eintrag-inhalt>
+        <a href="S20004" typ="druckseitennummer">
+          <seite>20004</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004316"><name><vorname>Xaver</vorname><nachname>Jung</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Xaver Jung (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20004" typ="druckseitennummer">
+          <seite>20004</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004053"><name><titel>Dr.</titel><vorname>Rosemarie</vorname><nachname>Hein</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Dr. Rosemarie Hein (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20009" typ="druckseitennummer">
+          <seite>20009</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003211"><name><titel>Dr.</titel><vorname>Ernst Dieter</vorname><nachname>Rossmann</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dr. Ernst Dieter Rossmann (SPD)</ivz-eintrag-inhalt>
+        <a href="S20011" typ="druckseitennummer">
+          <seite>20011</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004030"><name><vorname>Katja</vorname><nachname>Dörner</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Katja Dörner (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20012" typ="druckseitennummer">
+          <seite>20012</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Dr. Johanna Wanka, Bundesministerin BMBF</ivz-eintrag-inhalt>
+        <a href="S20013" typ="druckseitennummer">
+          <seite>20013</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004360"><name><vorname>Özcan</vorname><nachname>Mutlu</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Özcan Mutlu (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20015" typ="druckseitennummer">
+          <seite>20015</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003142"><name><vorname>Hubertus</vorname><nachname>Heil</nachname><ortszusatz>(Peine)</ortszusatz><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Hubertus Heil (Peine) (SPD)</ivz-eintrag-inhalt>
+        <a href="S20016" typ="druckseitennummer">
+          <seite>20016</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004279"><name><vorname>Cemile</vorname><nachname>Giousouf</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Cemile Giousouf (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20018" typ="druckseitennummer">
+          <seite>20018</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004259"><name><titel>Dr.</titel><vorname>Karamba</vorname><nachname>Diaby</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dr. Karamba Diaby (SPD)</ivz-eintrag-inhalt>
+        <a href="S20020" typ="druckseitennummer">
+          <seite>20020</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004414"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Stefinger</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Stefinger (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20021" typ="druckseitennummer">
+          <seite>20021</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 38: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Beratung der Antwort der Bundesregierung auf die Große Anfrage der Abgeordneten Petra Pau, Martina Renner, Jan Korte, weiterer Abgeordneter und der Fraktion DIE LINKE: Umsetzung der Empfehlungen des 2. Parlamentarischen Untersuchungsausschusses der 17. Wahlperiode zur Verbrechensserie des Nationalsozialistischen Untergrundes Drucksachen 18/6465, 18/9331</ivz-eintrag-inhalt>
+        <a href="S20022" typ="druckseitennummer">
+          <seite>20022</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001023"><name><vorname>Ulla</vorname><nachname>Jelpke</nachname><fraktion>Gruppe der Partei des Demokratischen Sozialismus/Linke Liste</fraktion></name></redner>in Verbindung mit Zusatztagesordnungspunkt 11: Zweite und dritte Beratung des von den Abgeordneten Ulla Jelpke, Jan Korte, Sevim Dağdelen, weiteren Abgeordneten und der Fraktion DIE LINKE eingebrachten Entwurfs eines Gesetzes zur Änderung des Aufenthaltsgesetzes – Aufenthaltsrecht für Opfer rechter Gewalt Drucksachen 18/2492, 18/10288</ivz-eintrag-inhalt>
+        <a href="S20022" typ="druckseitennummer">
+          <seite>20022</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003206"><name><vorname>Petra</vorname><nachname>Pau</nachname><fraktion>Fraktion der Partei des Demokratischen Sozialismus</fraktion></name></redner>Petra Pau (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20022" typ="druckseitennummer">
+          <seite>20022</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004149"><name><vorname>Armin</vorname><nachname>Schuster</nachname><ortszusatz>(Weil am Rhein)</ortszusatz><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Armin Schuster (Weil am Rhein) (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20023" typ="druckseitennummer">
+          <seite>20023</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004353"><name><titel>Dr.</titel><vorname>Irene</vorname><nachname>Mihalic</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20024" typ="druckseitennummer">
+          <seite>20024</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004282"><name><vorname>Uli</vorname><nachname>Grötsch</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Uli Grötsch (SPD)</ivz-eintrag-inhalt>
+        <a href="S20025" typ="druckseitennummer">
+          <seite>20025</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004616"><name><vorname>Thorsten</vorname><nachname>Hoffmann</nachname><ortszusatz>(Dortmund)</ortszusatz><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Thorsten Hoffmann (Dortmund) (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20027" typ="druckseitennummer">
+          <seite>20027</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003899"><name><vorname>Frank</vorname><nachname>Tempel</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Frank Tempel (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20029" typ="druckseitennummer">
+          <seite>20029</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004391"><name><vorname>Susann</vorname><nachname>Rüthrich</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Susann Rüthrich (SPD)</ivz-eintrag-inhalt>
+        <a href="S20030" typ="druckseitennummer">
+          <seite>20030</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003714"><name><vorname>Monika</vorname><nachname>Lazar</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Monika Lazar (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20031" typ="druckseitennummer">
+          <seite>20031</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004427"><name><titel>Dr.</titel><vorname>Volker</vorname><nachname>Ullrich</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Volker Ullrich (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20032" typ="druckseitennummer">
+          <seite>20032</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003899"><name><vorname>Frank</vorname><nachname>Tempel</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Frank Tempel (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20033" typ="druckseitennummer">
+          <seite>20033</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 39: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Regelung von Ansprüchen ausländischer Personen in der Grundsicherung für Arbeitsuchende nach dem Zweiten Buch Sozialgesetzbuch und in der Sozialhilfe nach dem Zwölften Buch Sozialgesetzbuch Drucksache 18/10211</ivz-eintrag-inhalt>
+        <a href="S20034" typ="druckseitennummer">
+          <seite>20034</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003162"><name><vorname>Anette</vorname><nachname>Kramme</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Anette Kramme, Parl. Staatssekretärin BMAS</ivz-eintrag-inhalt>
+        <a href="S20034" typ="druckseitennummer">
+          <seite>20034</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003869"><name><vorname>Sabine</vorname><nachname>Zimmermann</nachname><ortszusatz>(Zwickau)</ortszusatz><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Sabine Zimmermann (Zwickau) (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20035" typ="druckseitennummer">
+          <seite>20035</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004373"><name><titel>Dr.</titel><vorname>Martin</vorname><nachname>Pätzold</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Martin Pätzold (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20036" typ="druckseitennummer">
+          <seite>20036</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003888"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Strengmann-Kuhn</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Dr. Wolfgang Strengmann-Kuhn (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20037" typ="druckseitennummer">
+          <seite>20037</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004401"><name><vorname>Dagmar</vorname><nachname>Schmidt</nachname><ortszusatz>(Wetzlar)</ortszusatz><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dagmar Schmidt (Wetzlar) (SPD)</ivz-eintrag-inhalt>
+        <a href="S20038" typ="druckseitennummer">
+          <seite>20038</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004169"><name><vorname>Stephan</vorname><nachname>Stracke</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Stephan Stracke (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20039" typ="druckseitennummer">
+          <seite>20039</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004371"><name><vorname>Markus</vorname><nachname>Paschke</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Markus Paschke (SPD)</ivz-eintrag-inhalt>
+        <a href="S20040" typ="druckseitennummer">
+          <seite>20040</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Nächste Sitzung</ivz-eintrag-inhalt>
+        <a href="S20041" typ="druckseitennummer">
+          <seite>20041</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 1</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Liste der entschuldigten Abgeordneten</ivz-eintrag-inhalt>
+        <a href="S20043" typ="druckseitennummer">
+          <seite>20043</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 2</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Erklärung nach § 31 GO der Abgeordneten Kerstin Griese und Dr. Eva Högl (beide SPD) zu der namentlichen Abstimmung über den von der Bundesregierung eingebrachten Entwurf eines Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften (Tagesordnungspunkt 36)</ivz-eintrag-inhalt>
+        <a href="S20043" typ="druckseitennummer">
+          <seite>20043</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 3</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Erklärung nach § 31 GO der Abgeordneten Michaela Noll und Sabine Weiss (Wesel I) (beide CDU/CSU) zu der namentlichen Abstimmung über den von der Bundesregierung eingebrachten Entwurf eines Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften (Tagesordnungspunkt 36)</ivz-eintrag-inhalt>
+        <a href="S20044" typ="druckseitennummer">
+          <seite>20044</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 4</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Erklärungen nach § 31 GO zu der namentlichen Abstimmung über den von der Bundesregierung eingebrachten Entwurf eines Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften (Tagesordnungspunkt 36)</ivz-eintrag-inhalt>
+        <a href="S20044" typ="druckseitennummer">
+          <seite>20044</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004244"><name><vorname>Heike</vorname><nachname>Baehrens</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Heike Baehrens (SPD)</ivz-eintrag-inhalt>
+        <a href="S20044" typ="druckseitennummer">
+          <seite>20044</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004035"><name><vorname>Alexander</vorname><nachname>Funk</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Alexander Funk (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20045" typ="druckseitennummer">
+          <seite>20045</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11000975"><name><vorname>Hubert</vorname><nachname>Hüppe</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Hubert Hüppe (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20045" typ="druckseitennummer">
+          <seite>20045</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003562"><name><vorname>Bernhard</vorname><nachname>Kaster</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Bernhard Kaster (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20046" typ="druckseitennummer">
+          <seite>20046</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004349"><name><vorname>Matern</vorname><namenszusatz>von</namenszusatz><nachname>Marschall</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Matern von Marschall (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20046" typ="druckseitennummer">
+          <seite>20046</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004371"><name><vorname>Markus</vorname><nachname>Paschke</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Markus Paschke (SPD)</ivz-eintrag-inhalt>
+        <a href="S20046" typ="druckseitennummer">
+          <seite>20046</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003825"><name><vorname>Mechthild</vorname><nachname>Rawert</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Mechthild Rawert (SPD)</ivz-eintrag-inhalt>
+        <a href="S20047" typ="druckseitennummer">
+          <seite>20047</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004181"><name><vorname>Kathrin</vorname><nachname>Vogler</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Kathrin Vogler (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20048" typ="druckseitennummer">
+          <seite>20048</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003255"><name><vorname>Peter</vorname><nachname>Weiß</nachname><ortszusatz>(Emmendingen)</ortszusatz><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Peter Weiß (Emmendingen) (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20048" typ="druckseitennummer">
+          <seite>20048</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004188"><name><vorname>Katrin</vorname><nachname>Werner</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Katrin Werner (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20049" typ="druckseitennummer">
+          <seite>20049</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004192"><name><titel>Prof. Dr.</titel><vorname>Matthias</vorname><nachname>Zimmer</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr Matthias Zimmer (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20049" typ="druckseitennummer">
+          <seite>20049</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 5</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Amtliche Mitteilungen</ivz-eintrag-inhalt>
+        <a href="S20049" typ="druckseitennummer">
+          <seite>20049</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+  </inhaltsverzeichnis>
+</vorspann>

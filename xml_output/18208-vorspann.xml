@@ -1,0 +1,975 @@
+<vorspann>
+  <kopfdaten>
+    <plenarprotokoll-nummer>
+      Plenarprotokoll
+      <wahlperiode>18</wahlperiode>
+      /
+      <sitzungsnr>208</sitzungsnr>
+    </plenarprotokoll-nummer>
+    <herausgeber>Deutscher Bundestag</herausgeber>
+    <berichtart>Stenografischer Bericht</berichtart>
+    <sitzungstitel>
+      <sitzungsnr>208</sitzungsnr>
+      . Sitzung
+    </sitzungstitel>
+    <veranstaltungsdaten>
+      <ort>Berlin</ort>
+      ,
+      <datum date="14.12.2016">Mittwoch, den 14. Dezember 2016</datum>
+    </veranstaltungsdaten>
+  </kopfdaten>
+  <inhaltsverzeichnis>
+    <ivz-titel>Inhalt:</ivz-titel>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 1: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Befragung der Bundesregierung: Entwurf eines Gesetzes zur Änderung des Grundgesetzes (Artikel 90, 91c, 104b, 104c, 107, 108, 109a, 114, 125c, 143d, 143e, 143f, 143g); weitere Fragen Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20769" typ="druckseitennummer">
+          <seite>20769</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003547"><name><vorname>Anja</vorname><nachname>Hajduk</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Anja Hajduk (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20770" typ="druckseitennummer">
+          <seite>20770</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20770" typ="druckseitennummer">
+          <seite>20770</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003740"><name><vorname>Heidrun</vorname><nachname>Bluhm</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Heidrun Bluhm (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20771" typ="druckseitennummer">
+          <seite>20771</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20771" typ="druckseitennummer">
+          <seite>20771</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004070"><name><vorname>Sven-Christian</vorname><nachname>Kindler</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Sven-Christian Kindler (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20771" typ="druckseitennummer">
+          <seite>20771</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20771" typ="druckseitennummer">
+          <seite>20771</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004143"><name><vorname>Tankred</vorname><nachname>Schipanski</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Tankred Schipanski (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20771" typ="druckseitennummer">
+          <seite>20771</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20771" typ="druckseitennummer">
+          <seite>20771</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004053"><name><titel>Dr.</titel><vorname>Rosemarie</vorname><nachname>Hein</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Dr. Rosemarie Hein (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20772" typ="druckseitennummer">
+          <seite>20772</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20772" typ="druckseitennummer">
+          <seite>20772</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004030"><name><vorname>Katja</vorname><nachname>Dörner</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Katja Dörner (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20772" typ="druckseitennummer">
+          <seite>20772</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20772" typ="druckseitennummer">
+          <seite>20772</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003857"><name><titel>Dr.</titel><vorname>Axel</vorname><nachname>Troost</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Dr. Axel Troost (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20772" typ="druckseitennummer">
+          <seite>20772</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20772" typ="druckseitennummer">
+          <seite>20772</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004255"><name><titel>Dr.</titel><vorname>Franziska</vorname><nachname>Brantner</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Dr. Franziska Brantner (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20772" typ="druckseitennummer">
+          <seite>20772</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20773" typ="druckseitennummer">
+          <seite>20773</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004360"><name><vorname>Özcan</vorname><nachname>Mutlu</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Özcan Mutlu (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20773" typ="druckseitennummer">
+          <seite>20773</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20773" typ="druckseitennummer">
+          <seite>20773</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004089"><name><vorname>Sabine</vorname><nachname>Leidig</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Sabine Leidig (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20773" typ="druckseitennummer">
+          <seite>20773</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20773" typ="druckseitennummer">
+          <seite>20773</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003764"><name><vorname>Britta</vorname><nachname>Haßelmann</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Britta Haßelmann (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20774" typ="druckseitennummer">
+          <seite>20774</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20774" typ="druckseitennummer">
+          <seite>20774</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003547"><name><vorname>Anja</vorname><nachname>Hajduk</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Anja Hajduk (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20774" typ="druckseitennummer">
+          <seite>20774</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20774" typ="druckseitennummer">
+          <seite>20774</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004032"><name><titel>Dr.</titel><vorname>Thomas</vorname><nachname>Feist</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Thomas Feist (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20774" typ="druckseitennummer">
+          <seite>20774</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20774" typ="druckseitennummer">
+          <seite>20774</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003740"><name><vorname>Heidrun</vorname><nachname>Bluhm</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Heidrun Bluhm (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20774" typ="druckseitennummer">
+          <seite>20774</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20775" typ="druckseitennummer">
+          <seite>20775</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004070"><name><vorname>Sven-Christian</vorname><nachname>Kindler</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Sven-Christian Kindler (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20775" typ="druckseitennummer">
+          <seite>20775</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20775" typ="druckseitennummer">
+          <seite>20775</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004053"><name><titel>Dr.</titel><vorname>Rosemarie</vorname><nachname>Hein</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Dr. Rosemarie Hein (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20775" typ="druckseitennummer">
+          <seite>20775</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20775" typ="druckseitennummer">
+          <seite>20775</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004030"><name><vorname>Katja</vorname><nachname>Dörner</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Katja Dörner (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20775" typ="druckseitennummer">
+          <seite>20775</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20776" typ="druckseitennummer">
+          <seite>20776</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003857"><name><titel>Dr.</titel><vorname>Axel</vorname><nachname>Troost</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Dr. Axel Troost (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20776" typ="druckseitennummer">
+          <seite>20776</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20776" typ="druckseitennummer">
+          <seite>20776</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004127"><name><vorname>Lisa</vorname><nachname>Paus</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Lisa Paus (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20776" typ="druckseitennummer">
+          <seite>20776</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20776" typ="druckseitennummer">
+          <seite>20776</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004255"><name><titel>Dr.</titel><vorname>Franziska</vorname><nachname>Brantner</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Dr. Franziska Brantner (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20777" typ="druckseitennummer">
+          <seite>20777</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20777" typ="druckseitennummer">
+          <seite>20777</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004089"><name><vorname>Sabine</vorname><nachname>Leidig</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Sabine Leidig (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20777" typ="druckseitennummer">
+          <seite>20777</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20777" typ="druckseitennummer">
+          <seite>20777</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004360"><name><vorname>Özcan</vorname><nachname>Mutlu</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Özcan Mutlu (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20777" typ="druckseitennummer">
+          <seite>20777</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20777" typ="druckseitennummer">
+          <seite>20777</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002625"><name><vorname>Volker</vorname><nachname>Beck</nachname><ortszusatz>(Köln)</ortszusatz><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20778" typ="druckseitennummer">
+          <seite>20778</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20778" typ="druckseitennummer">
+          <seite>20778</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002273"><name><vorname>Hans-Christian</vorname><nachname>Ströbele</nachname><fraktion>Fraktion Die Grünen</fraktion></name></redner>Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20778" typ="druckseitennummer">
+          <seite>20778</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20778" typ="druckseitennummer">
+          <seite>20778</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004123"><name><titel>Dr.</titel><vorname>Konstantin</vorname><namenszusatz>von</namenszusatz><nachname>Notz</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20778" typ="druckseitennummer">
+          <seite>20778</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001938"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Schäuble</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Wolfgang Schäuble, Bundesminister BMF</ivz-eintrag-inhalt>
+        <a href="S20778" typ="druckseitennummer">
+          <seite>20778</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003628"><name><titel>Dr.</titel><vorname>Ole</vorname><nachname>Schröder</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Ole Schröder, Parl. Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S20778" typ="druckseitennummer">
+          <seite>20778</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004123"><name><titel>Dr.</titel><vorname>Konstantin</vorname><namenszusatz>von</namenszusatz><nachname>Notz</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20779" typ="druckseitennummer">
+          <seite>20779</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003628"><name><titel>Dr.</titel><vorname>Ole</vorname><nachname>Schröder</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Ole Schröder, Parl. Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S20779" typ="druckseitennummer">
+          <seite>20779</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003764"><name><vorname>Britta</vorname><nachname>Haßelmann</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Britta Haßelmann (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20779" typ="druckseitennummer">
+          <seite>20779</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003628"><name><titel>Dr.</titel><vorname>Ole</vorname><nachname>Schröder</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Ole Schröder, Parl. Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S20779" typ="druckseitennummer">
+          <seite>20779</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002625"><name><vorname>Volker</vorname><nachname>Beck</nachname><ortszusatz>(Köln)</ortszusatz><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20779" typ="druckseitennummer">
+          <seite>20779</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003628"><name><titel>Dr.</titel><vorname>Ole</vorname><nachname>Schröder</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Ole Schröder, Parl. Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S20779" typ="druckseitennummer">
+          <seite>20779</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 2: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Fragestunde Drucksache 18/10595</ivz-eintrag-inhalt>
+        <a href="S20779" typ="druckseitennummer">
+          <seite>20779</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002630"><name><titel>Dr.</titel><vorname>Maria</vorname><nachname>Böhmer</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 7 Inge Höger (DIE LINKE) Anstieg von Unfällen mit Landminen und explosiven Kriegsresten Antwort Dr. Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S20780" typ="druckseitennummer">
+          <seite>20780</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003773"><name><vorname>Inge</vorname><nachname>Höger</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Zusatzfragen Inge Höger (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20780" typ="druckseitennummer">
+          <seite>20780</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002630"><name><titel>Dr.</titel><vorname>Maria</vorname><nachname>Böhmer</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 15 Dr. Alexander S. Neu (DIE LINKE) Getötete Kombattanten und zivile Opfer der US-Drohnenangriffe Antwort Dr. Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S20780" typ="druckseitennummer">
+          <seite>20780</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004361"><name><titel>Dr.</titel><vorname>Alexander S.</vorname><nachname>Neu</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Zusatzfrage Dr. Alexander S. Neu (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20781" typ="druckseitennummer">
+          <seite>20781</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002273"><name><vorname>Hans-Christian</vorname><nachname>Ströbele</nachname><fraktion>Fraktion Die Grünen</fraktion></name></redner>Mündliche Frage 16 Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN) Aufnahme von Häftlingen aus dem USGefangenenlager Guantánamo Antwort Dr. Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S20781" typ="druckseitennummer">
+          <seite>20781</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002273"><name><vorname>Hans-Christian</vorname><nachname>Ströbele</nachname><fraktion>Fraktion Die Grünen</fraktion></name></redner>Zusatzfragen Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20781" typ="druckseitennummer">
+          <seite>20781</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002273"><name><vorname>Hans-Christian</vorname><nachname>Ströbele</nachname><fraktion>Fraktion Die Grünen</fraktion></name></redner>Mündliche Frage 17 Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN) Ermächtigung zur Strafverfolgung von Bundesbediensteten wegen des Verdachts der Verletzung des Dienstgeheimnisses Antwort Dr. Günter Krings, Parl. Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S20782" typ="druckseitennummer">
+          <seite>20782</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002273"><name><vorname>Hans-Christian</vorname><nachname>Ströbele</nachname><fraktion>Fraktion Die Grünen</fraktion></name></redner>Zusatzfrage Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20782" typ="druckseitennummer">
+          <seite>20782</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002625"><name><vorname>Volker</vorname><nachname>Beck</nachname><ortszusatz>(Köln)</ortszusatz><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Mündliche Frage 19 Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜNEN) Kenntnisse der Behörden über die Reichsbürger-Bewegung und deren Waffenbesitz Antwort Dr. Günter Krings, Parl. Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S20783" typ="druckseitennummer">
+          <seite>20783</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002625"><name><vorname>Volker</vorname><nachname>Beck</nachname><ortszusatz>(Köln)</ortszusatz><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Zusatzfragen Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20783" typ="druckseitennummer">
+          <seite>20783</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002625"><name><vorname>Volker</vorname><nachname>Beck</nachname><ortszusatz>(Köln)</ortszusatz><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Mündliche Frage 20 Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜNEN) Finanzielle Aufwendungen für die Beauftragung von McKinsey mit der Beratung des Bundesamts für Migration und Flüchtlinge Antwort Dr. Günter Krings, Parl. Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S20784" typ="druckseitennummer">
+          <seite>20784</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002625"><name><vorname>Volker</vorname><nachname>Beck</nachname><ortszusatz>(Köln)</ortszusatz><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Zusatzfragen Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20784" typ="druckseitennummer">
+          <seite>20784</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003574"><name><titel>Dr.</titel><vorname>Günter</vorname><nachname>Krings</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 23 Sevim Dağdelen (DIE LINKE) Mehrbedarf an Planstellen und Mitteln für das Bundesamt für Verfassungsschutz im Jahr 2017 Antwort Dr. Günter Krings, Parl. Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S20786" typ="druckseitennummer">
+          <seite>20786</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003746"><name><vorname>Sevim</vorname><nachname>Dağdelen</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Zusatzfragen Sevim Dağdelen (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20786" typ="druckseitennummer">
+          <seite>20786</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003574"><name><titel>Dr.</titel><vorname>Günter</vorname><nachname>Krings</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 24 Sevim Dağdelen (DIE LINKE) Ausspähung türkischer Staatsbürger durch Imame der DITIB Antwort Dr. Günter Krings, Parl. Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S20787" typ="druckseitennummer">
+          <seite>20787</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003746"><name><vorname>Sevim</vorname><nachname>Dağdelen</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Zusatzfragen Sevim Dağdelen (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20787" typ="druckseitennummer">
+          <seite>20787</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003527"><name><titel>Dr.</titel><vorname>Maria</vorname><nachname>Flachsbarth</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 30 Harald Ebner (BÜNDNIS 90/DIE GRÜNEN) Digitalisierungsbeauftragter im Bundesministerium für Ernährung und Landwirtschaft Antwort Dr. Maria Flachsbarth, Parl. Staatssekretärin BMEL</ivz-eintrag-inhalt>
+        <a href="S20788" typ="druckseitennummer">
+          <seite>20788</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004215"><name><vorname>Harald</vorname><nachname>Ebner</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Zusatzfragen Harald Ebner (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20788" typ="druckseitennummer">
+          <seite>20788</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003527"><name><titel>Dr.</titel><vorname>Maria</vorname><nachname>Flachsbarth</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 29 Harald Ebner (BÜNDNIS 90/DIE GRÜNEN) Stärkung des Bereichs Klimafolgen im Bundesministerium für Ernährung und Landwirtschaft Antwort Dr. Maria Flachsbarth, Parl. Staatssekretärin BMEL</ivz-eintrag-inhalt>
+        <a href="S20789" typ="druckseitennummer">
+          <seite>20789</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004215"><name><vorname>Harald</vorname><nachname>Ebner</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Zusatzfragen Harald Ebner (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20789" typ="druckseitennummer">
+          <seite>20789</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003033"><name><vorname>Norbert</vorname><nachname>Barthle</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 39 Matthias Gastel (BÜNDNIS 90/DIE GRÜNEN) Anwendung eines speziellen Bauverfahrens bei durch Anhydritschichten führenden Tunneln bei Stuttgart 21 Antwort Norbert Barthle, Parl. Staatssekretär BMVI</ivz-eintrag-inhalt>
+        <a href="S20790" typ="druckseitennummer">
+          <seite>20790</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004278"><name><vorname>Matthias</vorname><nachname>Gastel</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Zusatzfragen Matthias Gastel (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20790" typ="druckseitennummer">
+          <seite>20790</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003033"><name><vorname>Norbert</vorname><nachname>Barthle</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 40 Matthias Gastel (BÜNDNIS 90/DIE GRÜNEN) Umrüstung von lauten Güterwagen Antwort Norbert Barthle, Parl. Staatssekretär BMVI</ivz-eintrag-inhalt>
+        <a href="S20791" typ="druckseitennummer">
+          <seite>20791</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004278"><name><vorname>Matthias</vorname><nachname>Gastel</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Zusatzfragen Matthias Gastel (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20792" typ="druckseitennummer">
+          <seite>20792</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Zusatztagesordnungspunkt 1: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Aktuelle Stunde auf Verlangen der Fraktionen der CDU/CSU und SPD: Herausforderungen für die internationale Politik nach den Terroranschlägen in Kairo, Istanbul und weiteren Orten vom vergangenen Wochenende Michelle Müntefering (SPD)</ivz-eintrag-inhalt>
+        <a href="S20792" typ="druckseitennummer">
+          <seite>20792</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003034"><name><titel>Dr.</titel><vorname>Dietmar</vorname><nachname>Bartsch</nachname><fraktion>Fraktion der Partei des Demokratischen Sozialismus</fraktion></name></redner>Dr. Dietmar Bartsch (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20793" typ="druckseitennummer">
+          <seite>20793</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003507"><name><vorname>Clemens</vorname><nachname>Binninger</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Clemens Binninger (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20794" typ="druckseitennummer">
+          <seite>20794</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003881"><name><vorname>Omid</vorname><nachname>Nouripour</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Omid Nouripour (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20795" typ="druckseitennummer">
+          <seite>20795</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004399"><name><titel>Dr.</titel><vorname>Dorothee</vorname><nachname>Schlegel</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dr. Dorothee Schlegel (SPD)</ivz-eintrag-inhalt>
+        <a href="S20796" typ="druckseitennummer">
+          <seite>20796</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003746"><name><vorname>Sevim</vorname><nachname>Dağdelen</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Sevim Dağdelen (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S20797" typ="druckseitennummer">
+          <seite>20797</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004050"><name><vorname>Jürgen</vorname><nachname>Hardt</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Jürgen Hardt (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20798" typ="druckseitennummer">
+          <seite>20798</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004255"><name><titel>Dr.</titel><vorname>Franziska</vorname><nachname>Brantner</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Dr. Franziska Brantner (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S20799" typ="druckseitennummer">
+          <seite>20799</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004273"><name><titel>Dr.</titel><vorname>Ute</vorname><nachname>Finckh-Krämer</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dr. Ute Finckh-Krämer (SPD)</ivz-eintrag-inhalt>
+        <a href="S20800" typ="druckseitennummer">
+          <seite>20800</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004357"><name><vorname>Elisabeth</vorname><nachname>Motschmann</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Elisabeth Motschmann (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20801" typ="druckseitennummer">
+          <seite>20801</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004427"><name><titel>Dr.</titel><vorname>Volker</vorname><nachname>Ullrich</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Volker Ullrich (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20802" typ="druckseitennummer">
+          <seite>20802</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004054"><name><vorname>Frank</vorname><nachname>Heinrich</nachname><ortszusatz>(Chemnitz)</ortszusatz><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Frank Heinrich (Chemnitz) (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S20802" typ="druckseitennummer">
+          <seite>20802</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Nächste Sitzung</ivz-eintrag-inhalt>
+        <a href="S20804" typ="druckseitennummer">
+          <seite>20804</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 1</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Liste der entschuldigten Abgeordneten</ivz-eintrag-inhalt>
+        <a href="S20805" typ="druckseitennummer">
+          <seite>20805</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 2</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 1 Sylvia Kotting-Uhl (BÜNDNIS 90/DIE GRÜNEN) Nachrüstung des Zwischenlagers Nord der Energiewerke Nord GmbH Antwort Florian Pronold, Parl. Staatssekretär BMUB</ivz-eintrag-inhalt>
+        <a href="S20805" typ="druckseitennummer">
+          <seite>20805</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 3</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 2 Sylvia Kotting-Uhl (BÜNDNIS 90/DIE GRÜNEN) Reststrommengen deutscher Atomkraftwerke Antwort Florian Pronold, Parl. Staatssekretär BMUB</ivz-eintrag-inhalt>
+        <a href="S20805" typ="druckseitennummer">
+          <seite>20805</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 4</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 3 Christian Kühn (Tübingen) (BÜNDNIS 90/DIE GRÜNEN) Maßnahmen zur weiteren CO 2 -Einsparung im Gebäudebereich Antwort Florian Pronold, Parl. Staatssekretär BMUB</ivz-eintrag-inhalt>
+        <a href="S20806" typ="druckseitennummer">
+          <seite>20806</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 5</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 4 Christian Kühn (Tübingen) (BÜNDNIS 90/DIE GRÜNEN) Kosten für die Klimafolgenanpassung bis 2050 Antwort Florian Pronold, Parl. Staatssekretär BMUB</ivz-eintrag-inhalt>
+        <a href="S20806" typ="druckseitennummer">
+          <seite>20806</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 6</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 5 Uwe Kekeritz (BÜNDNIS 90/DIE GRÜNEN) Finanzielle Mittel für den Sudan zur Bekämpfung illegaler Migration Antwort Thomas Silberhorn, Parl. Staatssekretär BMZ</ivz-eintrag-inhalt>
+        <a href="S20806" typ="druckseitennummer">
+          <seite>20806</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 7</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 6 Uwe Kekeritz (BÜNDNIS 90/DIE GRÜNEN) Vorlage eines Vertragsgesetzes zur Rati fikation der Interim-Wirtschaftspartnerschaftsabkommen mit Ghana und der Elfenbeinküste Antwort Thomas Silberhorn, Parl. Staatssekretär BMZ</ivz-eintrag-inhalt>
+        <a href="S20807" typ="druckseitennummer">
+          <seite>20807</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 8</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 8 Omid Nouripour (BÜNDNIS 90/DIE GRÜNEN) Erhöhung der Mittel für das Internetportal Qantara.de Antwort Dr. Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S20807" typ="druckseitennummer">
+          <seite>20807</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 9</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 9 Omid Nouripour (BÜNDNIS 90/DIE GRÜNEN) Restriktionen in Bezug auf Hilfslieferungen in das kurdische Sindschar-Gebirge Antwort Dr. Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S20807" typ="druckseitennummer">
+          <seite>20807</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 10</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 10 Andrej Hunko (DIE LINKE) Einsatz von Kampfdrohnen durch die Türkei zur Bombardierung von Stellungen kurdischer Kämpfer Antwort Dr. Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S20808" typ="druckseitennummer">
+          <seite>20808</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 11</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 11 Andrej Hunko (DIE LINKE) Aufgaben des US-amerikanischen Militärstandorts in Ramstein Antwort Dr. Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S20808" typ="druckseitennummer">
+          <seite>20808</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 12</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 12 Niema Movassat (DIE LINKE) Mögliche Beteiligung an US-amerikanischen Drohneneinsätzen durch die Bereitstellung einer Relaisstation in Ramstein Antwort Dr. Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S20808" typ="druckseitennummer">
+          <seite>20808</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 13</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 13 Niema Movassat (DIE LINKE) Position der Bundesregierung zu völkerrechtlichen Aspekten des Einsatzes von Kampfdrohnen Antwort Dr. Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S20808" typ="druckseitennummer">
+          <seite>20808</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 14</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 14 Dr. Alexander S. Neu (DIE LINKE) Kenntnisse über das Analysezentrum „Distributed Common Ground System“ in Ramstein Antwort Dr. Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S20809" typ="druckseitennummer">
+          <seite>20809</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 15</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 18 Özcan Mutlu (BÜNDNIS 90/DIE GRÜNEN) Ziele der deutsch-chinesischen Fußballkooperation Antwort Dr. Günter Krings, Parl. Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S20809" typ="druckseitennummer">
+          <seite>20809</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 16</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 21 Ulla Jelpke (DIE LINKE) Durchschnittliche Dauer eines Asylverfahrens Antwort Dr. Günter Krings, Parl. Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S20809" typ="druckseitennummer">
+          <seite>20809</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 17</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 22 Ulla Jelpke (DIE LINKE) Klagen gegen Asylbescheide des Bundesamts für Migration und Flüchtlinge Antwort Dr. Günter Krings, Parl. Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S20810" typ="druckseitennummer">
+          <seite>20810</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 18</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 25 Sabine Zimmermann (Zwickau) (DIE LINKE) Unterhalt für pflegebedürftige Eltern in den Jahren 2005 bis 2015 Antwort Christian Lange, Parl. Staatssekretär BMJV</ivz-eintrag-inhalt>
+        <a href="S20810" typ="druckseitennummer">
+          <seite>20810</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 19</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 26 Brigitte Pothmer (BÜNDNIS 90/DIE GRÜNEN) Anteil der Vermittlungen Arbeitsloser in Leiharbeitsverhältnisse Antwort Gabriele Lösekrug-Möller, Parl. Staatssekretärin BMAS</ivz-eintrag-inhalt>
+        <a href="S20811" typ="druckseitennummer">
+          <seite>20811</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 20</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 27 Bärbel Höhn (BÜNDNIS 90/DIE GRÜNEN) Stärkung des Bereichs Klimafolgen im Rahmen der Zukunftsstrategie „Aussaat 2017“ Antwort Dr. Maria Flachsbarth, Parl. Staatssekretärin BMEL</ivz-eintrag-inhalt>
+        <a href="S20811" typ="druckseitennummer">
+          <seite>20811</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 21</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 28 Bärbel Höhn (BÜNDNIS 90/DIE GRÜNEN) Umsetzung der Deutschen Anpassungsstrategie an den Klimawandel Antwort Dr. Maria Flachsbarth, Parl. Staatssekretärin BMEL</ivz-eintrag-inhalt>
+        <a href="S20811" typ="druckseitennummer">
+          <seite>20811</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 22</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 31 Beate Walter-Rosenheimer (BÜNDNIS 90/DIE GRÜNEN) Bericht der Bundesregierung zur Situation unbegleiteter ausländischer Minderjähriger Antwort Elke Ferner, Parl. Staatssekretärin BMFSFJ</ivz-eintrag-inhalt>
+        <a href="S20812" typ="druckseitennummer">
+          <seite>20812</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 23</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 32 Sabine Zimmermann (Zwickau) (DIE LINKE) Zuzahlung beim Zahnersatz in den Jahren 2005, 2010 und 2015 Antwort Annette Widmann-Mauz, Parl. Staatssekretärin BMG</ivz-eintrag-inhalt>
+        <a href="S20812" typ="druckseitennummer">
+          <seite>20812</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 24</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 33 Stephan Kühn (Dresden) (BÜNDNIS 90/DIE GRÜNEN) Bezuschussung von Elektrofahrzeugen gemäß der Förderrichtlinie Elektromobilität Antwort Norbert Barthle, Parl. Staatssekretär BMVI</ivz-eintrag-inhalt>
+        <a href="S20812" typ="druckseitennummer">
+          <seite>20812</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 25</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 34 Stephan Kühn (Dresden) (BÜNDNIS 90/DIE GRÜNEN) Umbenennung des Luftverkehrskonzepts der Bundesregierung Antwort Norbert Barthle, Parl. Staatssekretär BMVI</ivz-eintrag-inhalt>
+        <a href="S20813" typ="druckseitennummer">
+          <seite>20813</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 26</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 37 Oliver Krischer (BÜNDNIS 90/DIE GRÜNEN) Mindereinnahmen bei der Pkw-Maut nach der Einigung mit der EU-Kommission Antwort Norbert Barthle, Parl. Staatssekretär BMVI</ivz-eintrag-inhalt>
+        <a href="S20813" typ="druckseitennummer">
+          <seite>20813</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 27</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 38 Oliver Krischer (BÜNDNIS 90/DIE GRÜNEN) Konsequenzen für Halter bzw. Hersteller von Fahrzeugen mit unzulässiger Abschalteinrichtung Antwort Norbert Barthle, Parl. Staatssekretär BMVI</ivz-eintrag-inhalt>
+        <a href="S20813" typ="druckseitennummer">
+          <seite>20813</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+  </inhaltsverzeichnis>
+</vorspann>

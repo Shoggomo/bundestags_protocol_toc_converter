@@ -62,6 +62,7 @@ $ npm run start -- 18 "/home/user1/protocols/tos"
 This tool is not perfect yet, but gets a good baseline. Here are some things that can be improved.
 
 - [ ] This tool was only tested with the protocols of the 18. Wahlperiode and probably needs tuning for other periods.
+- [ ] Some entries have small formatting errors like split up words.
 - [ ] Add `xref` Tag with Rede-ID (rid) (
   see [official documentation](https://www.bundestag.de/resource/blob/577234/4c8091d8650fe417016bb48e604e3eaf/dbtplenarprotokoll_kommentiert-data.pdf#G1030365))
 - [ ] The `rolle` tags inside of `redner` tags are currently empty, because the needed information is not present in the

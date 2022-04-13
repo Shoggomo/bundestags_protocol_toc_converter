@@ -1,0 +1,623 @@
+<vorspann>
+  <kopfdaten>
+    <plenarprotokoll-nummer>
+      Plenarprotokoll
+      <wahlperiode>18</wahlperiode>
+      /
+      <sitzungsnr>10</sitzungsnr>
+    </plenarprotokoll-nummer>
+    <herausgeber>Deutscher Bundestag</herausgeber>
+    <berichtart>Stenografischer Bericht</berichtart>
+    <sitzungstitel>
+      <sitzungsnr>10</sitzungsnr>
+      . Sitzung
+    </sitzungstitel>
+    <veranstaltungsdaten>
+      <ort>Berlin</ort>
+      ,
+      <datum date="29.01.2014">Mittwoch, den 29. Januar 2014</datum>
+    </veranstaltungsdaten>
+  </kopfdaten>
+  <inhaltsverzeichnis>
+    <ivz-titel>Inhalt:</ivz-titel>
+    <ivz-eintrag>
+      <ivz-eintrag-inhalt>Änderung der Tagesordnung</ivz-eintrag-inhalt>
+      <a href="S561" typ="druckseitennummer">
+        <seite>561</seite>
+        <seitenbereich>A</seitenbereich>
+      </a>
+    </ivz-eintrag>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 1: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Regierungserklärung durch die Bundeskanzlerin mit anschließender Aussprache</ivz-eintrag-inhalt>
+        <a href="S561" typ="druckseitennummer">
+          <seite>561</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001478"><name><titel>Dr.</titel><vorname>Angela</vorname><nachname>Merkel</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Angela Merkel,  Bundeskanzlerin</ivz-eintrag-inhalt>
+        <a href="S561" typ="druckseitennummer">
+          <seite>561</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11000756"><name><titel>Dr.</titel><vorname>Gregor</vorname><nachname>Gysi</nachname><fraktion>Gruppe der Partei des Demokratischen Sozialismus</fraktion></name></redner>Dr. Gregor Gysi (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S571" typ="druckseitennummer">
+          <seite>571</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003820"><name><vorname>Thomas</vorname><nachname>Oppermann</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Thomas Oppermann (SPD)</ivz-eintrag-inhalt>
+        <a href="S575" typ="druckseitennummer">
+          <seite>575</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003772"><name><titel>Dr.</titel><vorname>Anton</vorname><nachname>Hofreiter</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Dr. Anton Hofreiter (BÜNDNIS 90/ DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S580" typ="druckseitennummer">
+          <seite>580</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11001074"><name><vorname>Volker</vorname><nachname>Kauder</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Volker Kauder (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S583" typ="druckseitennummer">
+          <seite>583</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11000825"><name><vorname>Gerda</vorname><nachname>Hasselfeldt</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Gerda Hasselfeldt (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S586" typ="druckseitennummer">
+          <seite>586</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003761"><name><titel>Prof.</titel><vorname>Monika</vorname><nachname>Grütters</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Monika Grütters, Staatsministerin  BK</ivz-eintrag-inhalt>
+        <a href="S588" typ="druckseitennummer">
+          <seite>588</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004309"><name><vorname>Sigrid</vorname><nachname>Hupach</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Sigrid Hupach (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S592" typ="druckseitennummer">
+          <seite>592</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003896"><name><titel>Dr.</titel><vorname>Eva</vorname><nachname>Högl</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dr. Eva Högl (SPD)</ivz-eintrag-inhalt>
+        <a href="S592" typ="druckseitennummer">
+          <seite>592</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004395"><name><vorname>Ulle</vorname><nachname>Schauws</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Ulle Schauws (BÜNDNIS 90/ DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S594" typ="druckseitennummer">
+          <seite>594</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003572"><name><vorname>Michael</vorname><nachname>Kretschmer</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Michael Kretschmer (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S595" typ="druckseitennummer">
+          <seite>595</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003517"><name><vorname>Martin</vorname><nachname>Dörmann</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Martin Dörmann (SPD)</ivz-eintrag-inhalt>
+        <a href="S597" typ="druckseitennummer">
+          <seite>597</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Außen, Europa und Menschenrechte</ivz-eintrag-inhalt>
+        <a href="S598" typ="druckseitennummer">
+          <seite>598</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004167"><name><titel>Dr.</titel><vorname>Frank-Walter</vorname><nachname>Steinmeier</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dr. Frank-Walter Steinmeier,  Bundesminister AA</ivz-eintrag-inhalt>
+        <a href="S598" typ="druckseitennummer">
+          <seite>598</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003130"><name><vorname>Wolfgang</vorname><nachname>Gehrcke</nachname><fraktion>Fraktion der Partei des Demokratischen Sozialismus</fraktion></name></redner>Wolfgang Gehrcke (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S600" typ="druckseitennummer">
+          <seite>600</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002053"><name><titel>Dr.</titel><vorname>Andreas</vorname><nachname>Schockenhoff</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Andreas Schockenhoff (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S601" typ="druckseitennummer">
+          <seite>601</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004145"><name><titel>Dr.</titel><vorname>Frithjof</vorname><nachname>Schmidt</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Dr. Frithjof Schmidt (BÜNDNIS 90/ DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S603" typ="druckseitennummer">
+          <seite>603</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003846"><name><vorname>Frank</vorname><nachname>Schwabe</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Frank Schwabe (SPD)</ivz-eintrag-inhalt>
+        <a href="S605" typ="druckseitennummer">
+          <seite>605</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11000365"><name><titel>Dr.</titel><vorname>Diether</vorname><nachname>Dehm</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dr. Diether Dehm (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S606" typ="druckseitennummer">
+          <seite>606</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003243"><name><vorname>Thomas</vorname><nachname>Strobl</nachname><ortszusatz>(Heilbronn)</ortszusatz><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Thomas Strobl (Heilbronn) (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S606" typ="druckseitennummer">
+          <seite>606</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002808"><name><vorname>Erika</vorname><nachname>Steinbach</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Erika Steinbach (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S608" typ="druckseitennummer">
+          <seite>608</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 2: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>– Beschlussempfehlung und Bericht des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung: Fortsetzung der Entsendung bewaffneter deutscher Streitkräfte zur Verstärkung der integrierten Luftverteidigung der NATO auf Ersuchen der Türkei und auf Grundlage des Rechts auf kollektive Selbstverteidigung (Artikel 51 der Charta der Vereinten Nationen) sowie des Beschlusses des Nordatlantikrates vom 4. Dezember 2012  Drucksachen 18/262, 18/347</ivz-eintrag-inhalt>
+        <a href="S609" typ="druckseitennummer">
+          <seite>609</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>– Bericht des Haushaltsausschusses gemäß § 96 der Geschäftsordnung  Drucksache 18/382</ivz-eintrag-inhalt>
+        <a href="S610" typ="druckseitennummer">
+          <seite>610</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003599"><name><titel>Dr.</titel><vorname>Rolf</vorname><nachname>Mützenich</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dr. Rolf Mützenich (SPD)</ivz-eintrag-inhalt>
+        <a href="S610" typ="druckseitennummer">
+          <seite>610</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003746"><name><vorname>Sevim</vorname><nachname>Dağdelen</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Sevim Dağdelen (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S610" typ="druckseitennummer">
+          <seite>610</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004001"><name><vorname>Jan</vorname><namenszusatz>van</namenszusatz><nachname>Aken</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Jan van Aken (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S612" typ="druckseitennummer">
+          <seite>612</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003795"><name><vorname>Katrin</vorname><nachname>Kunert</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Katrin Kunert (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S613" typ="druckseitennummer">
+          <seite>613</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004068"><name><vorname>Roderich</vorname><nachname>Kiesewetter</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Roderich Kiesewetter (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S614" typ="druckseitennummer">
+          <seite>614</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004255"><name><titel>Dr.</titel><vorname>Franziska</vorname><nachname>Brantner</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Dr. Franziska Brantner (BÜNDNIS 90/ DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S615" typ="druckseitennummer">
+          <seite>615</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004018"><name><titel>Dr.</titel><vorname>Reinhard</vorname><nachname>Brandl</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Reinhard Brandl (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S616" typ="druckseitennummer">
+          <seite>616</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003746"><name><vorname>Sevim</vorname><nachname>Dağdelen</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Sevim Dağdelen (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S616" typ="druckseitennummer">
+          <seite>616</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Namentliche Abstimmung</ivz-eintrag-inhalt>
+        <a href="S618" typ="druckseitennummer">
+          <seite>618</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Ergebnis</ivz-eintrag-inhalt>
+        <a href="S620" typ="druckseitennummer">
+          <seite>620</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 3: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>– Beschlussempfehlung und Bericht des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten Operation Active Endeavour im gesamten Mittelmeer  Drucksachen 18/263, 18/348</ivz-eintrag-inhalt>
+        <a href="S618" typ="druckseitennummer">
+          <seite>618</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>– Bericht des Haushaltsausschusses gemäß § 96 der Geschäftsordnung  Drucksache 18/383</ivz-eintrag-inhalt>
+        <a href="S618" typ="druckseitennummer">
+          <seite>618</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003732"><name><vorname>Niels</vorname><nachname>Annen</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Niels Annen (SPD)</ivz-eintrag-inhalt>
+        <a href="S618" typ="druckseitennummer">
+          <seite>618</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002273"><name><vorname>Hans-Christian</vorname><nachname>Ströbele</nachname><fraktion>Fraktion Die Grünen</fraktion></name></redner>Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S619" typ="druckseitennummer">
+          <seite>619</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004361"><name><titel>Dr.</titel><vorname>Alexander S.</vorname><nachname>Neu</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Dr. Alexander S. Neu (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S623" typ="druckseitennummer">
+          <seite>623</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004010"><name><vorname>Peter</vorname><nachname>Beyer</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Peter Beyer (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S624" typ="druckseitennummer">
+          <seite>624</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004217"><name><titel>Dr.</titel><vorname>Tobias</vorname><nachname>Lindner</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Dr. Tobias Lindner (BÜNDNIS 90/ DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S625" typ="druckseitennummer">
+          <seite>625</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004249"><name><vorname>Julia</vorname><nachname>Bartz</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Julia Bartz (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S625" typ="druckseitennummer">
+          <seite>625</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004093"><name><vorname>Stefan</vorname><nachname>Liebich</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Stefan Liebich (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S626" typ="druckseitennummer">
+          <seite>626</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004249"><name><vorname>Julia</vorname><nachname>Bartz</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Julia Bartz (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S627" typ="druckseitennummer">
+          <seite>627</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Namentliche Abstimmung</ivz-eintrag-inhalt>
+        <a href="S627" typ="druckseitennummer">
+          <seite>627</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Ergebnis</ivz-eintrag-inhalt>
+        <a href="S628" typ="druckseitennummer">
+          <seite>628</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 4: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>a) – Antrag der Fraktionen CDU/CSU, SPD, DIE LINKE und BÜNDNIS 90/DIE GRÜNEN: Einsetzung des Vertrauensgremiums gemäß § 10a Absatz 2 der Bundeshaushaltsordnung  Drucksache 18/358</ivz-eintrag-inhalt>
+        <a href="S627" typ="druckseitennummer">
+          <seite>627</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>– Wahl der Mitglieder des Vertrauensgremiums gemäß § 10a Absatz 2 der Bundeshaushaltsordnung  Drucksache 18/359</ivz-eintrag-inhalt>
+        <a href="S627" typ="druckseitennummer">
+          <seite>627</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>b) – Antrag der Fraktionen CDU/CSU, SPD, DIE LINKE und BÜNDNIS 90/DIE GRÜNEN: Einsetzung eines Gremiums gemäß § 3 des Bundesschuldenwesengesetzes  Drucksache 18/360</ivz-eintrag-inhalt>
+        <a href="S627" typ="druckseitennummer">
+          <seite>627</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>– Wahl der Mitglieder des Gremiums gemäß § 3 des Bundesschuldenwesengesetzes  Drucksache 18/361</ivz-eintrag-inhalt>
+        <a href="S627" typ="druckseitennummer">
+          <seite>627</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>c) Wahl der Mitglieder des Wahlausschusses für die vom Deutschen Bundestag zu berufenden Richter des Bundesverfassungsgerichts gemäß § 6 Absatz 2 des Bundesverfassungsgerichtsgesetzes  Drucksachen 18/362, 18/363, 18/364, 18/365</ivz-eintrag-inhalt>
+        <a href="S627" typ="druckseitennummer">
+          <seite>627</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>d) Wahl der Mitglieder des Ausschusses für die Wahl der Richter der obersten Gerichtshöfe des Bundes gemäß § 5 des Richterwahlgesetzes (Richterwahlausschuss)  Drucksachen 18/366, 18/367, 18/368, 18/369</ivz-eintrag-inhalt>
+        <a href="S627" typ="druckseitennummer">
+          <seite>627</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Ergebnisse  659 C, D; 660 A Tagesordnungspunkt 1: Regierungserklärung durch die Bundeskanzlerin  (Fortsetzung der Aussprache)</ivz-eintrag-inhalt>
+        <a href="S631" typ="druckseitennummer">
+          <seite>631</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Verteidigung</ivz-eintrag-inhalt>
+        <a href="S631" typ="druckseitennummer">
+          <seite>631</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004092"><name><titel>Dr.</titel><vorname>Ursula</vorname><namenszusatz>von der</namenszusatz><nachname>Leyen</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Ursula von der Leyen, Bundesministerin BMVg</ivz-eintrag-inhalt>
+        <a href="S631" typ="druckseitennummer">
+          <seite>631</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004361"><name><titel>Dr.</titel><vorname>Alexander S.</vorname><nachname>Neu</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Dr. Alexander S. Neu (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S633" typ="druckseitennummer">
+          <seite>633</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004439"><name><vorname>Albert</vorname><nachname>Weiler</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Albert Weiler (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S635" typ="druckseitennummer">
+          <seite>635</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003029"><name><vorname>Rainer</vorname><nachname>Arnold</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Rainer Arnold (SPD)</ivz-eintrag-inhalt>
+        <a href="S636" typ="druckseitennummer">
+          <seite>636</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003763"><name><vorname>Heike</vorname><nachname>Hänsel</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Heike Hänsel (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S637" typ="druckseitennummer">
+          <seite>637</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004114"><name><vorname>Niema</vorname><nachname>Movassat</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Niema Movassat (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S638" typ="druckseitennummer">
+          <seite>638</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004181"><name><vorname>Kathrin</vorname><nachname>Vogler</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Kathrin Vogler (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S638" typ="druckseitennummer">
+          <seite>638</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004106"><name><vorname>Agnieszka</vorname><nachname>Brugger</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Agnieszka Brugger (BÜNDNIS 90/ DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S640" typ="druckseitennummer">
+          <seite>640</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003821"><name><vorname>Henning</vorname><nachname>Otte</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Henning Otte (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S641" typ="druckseitennummer">
+          <seite>641</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004217"><name><titel>Dr.</titel><vorname>Tobias</vorname><nachname>Lindner</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Dr. Tobias Lindner (BÜNDNIS 90/ DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S643" typ="druckseitennummer">
+          <seite>643</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004438"><name><vorname>Gabi</vorname><nachname>Weber</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Gabi Weber (SPD)</ivz-eintrag-inhalt>
+        <a href="S643" typ="druckseitennummer">
+          <seite>643</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004048"><name><vorname>Florian</vorname><nachname>Hahn</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Florian Hahn (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S645" typ="druckseitennummer">
+          <seite>645</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004436"><name><vorname>Doris</vorname><nachname>Wagner</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Doris Wagner (BÜNDNIS 90/ DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S645" typ="druckseitennummer">
+          <seite>645</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Wirtschaftliche Zusammenarbeit und Entwicklung</ivz-eintrag-inhalt>
+        <a href="S646" typ="druckseitennummer">
+          <seite>646</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002742"><name><titel>Dr.</titel><vorname>Gerd</vorname><nachname>Müller</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Gerd Müller, Bundesminister  BMZ</ivz-eintrag-inhalt>
+        <a href="S646" typ="druckseitennummer">
+          <seite>646</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003763"><name><vorname>Heike</vorname><nachname>Hänsel</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Heike Hänsel (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S649" typ="druckseitennummer">
+          <seite>649</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003710"><name><titel>Dr.</titel><vorname>Bärbel</vorname><nachname>Kofler</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dr. Bärbel Kofler (SPD)</ivz-eintrag-inhalt>
+        <a href="S650" typ="druckseitennummer">
+          <seite>650</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004066"><name><vorname>Uwe</vorname><nachname>Kekeritz</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Uwe Kekeritz (BÜNDNIS 90/ DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S651" typ="druckseitennummer">
+          <seite>651</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003609"><name><vorname>Sibylle</vorname><nachname>Pfeiffer</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Sibylle Pfeiffer (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S652" typ="druckseitennummer">
+          <seite>652</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004114"><name><vorname>Niema</vorname><nachname>Movassat</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Niema Movassat (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S653" typ="druckseitennummer">
+          <seite>653</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004214"><name><vorname>Stefan</vorname><nachname>Rebmann</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Stefan Rebmann (SPD)</ivz-eintrag-inhalt>
+        <a href="S655" typ="druckseitennummer">
+          <seite>655</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003212"><name><vorname>Claudia</vorname><nachname>Roth</nachname><ortszusatz>(Augsburg)</ortszusatz><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Claudia Roth (Augsburg) (BÜNDNIS 90/ DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S656" typ="druckseitennummer">
+          <seite>656</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002829"><name><vorname>Dagmar G.</vorname><nachname>Wöhrl</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dagmar G. Wöhrl (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S657" typ="druckseitennummer">
+          <seite>657</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004296"><name><vorname>Gabriela</vorname><nachname>Heinrich</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Gabriela Heinrich (SPD)</ivz-eintrag-inhalt>
+        <a href="S658" typ="druckseitennummer">
+          <seite>658</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Nächste Sitzung</ivz-eintrag-inhalt>
+        <a href="S660" typ="druckseitennummer">
+          <seite>660</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 1</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Liste der entschuldigten Abgeordneten</ivz-eintrag-inhalt>
+        <a href="S661" typ="druckseitennummer">
+          <seite>661</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 2</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Erklärungen nach § 31 GO zur namentlichen Abstimmung über den Antrag der Bundesregierung: Fortsetzung der Entsendung bewaffneter deutscher Streitkräfte zur Verstärkung der integrierten Luftverteidigung der NATO auf Ersuchen der Türk ei und auf Grundlage des Rechts auf kollektive Selbstverteidigung (Artikel 51 der Charta der Vereinten Nationen) sowie des Beschlusses des Nordatlantikrates vom 4. Dezember 2012 (Tagesordnungspunkt 2) Cansel Kiziltepe (SPD)</ivz-eintrag-inhalt>
+        <a href="S661" typ="druckseitennummer">
+          <seite>661</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003746"><name><vorname>Sevim</vorname><nachname>Dağdelen</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Sevim Dağdelen (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S661" typ="druckseitennummer">
+          <seite>661</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+  </inhaltsverzeichnis>
+</vorspann>

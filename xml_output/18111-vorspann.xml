@@ -1,0 +1,718 @@
+<vorspann>
+  <kopfdaten>
+    <plenarprotokoll-nummer>
+      Plenarprotokoll
+      <wahlperiode>18</wahlperiode>
+      /
+      <sitzungsnr>111</sitzungsnr>
+    </plenarprotokoll-nummer>
+    <herausgeber>Deutscher Bundestag</herausgeber>
+    <berichtart>Stenografischer Bericht</berichtart>
+    <sitzungstitel>
+      <sitzungsnr>111</sitzungsnr>
+      . Sitzung
+    </sitzungstitel>
+    <veranstaltungsdaten>
+      <ort>Berlin</ort>
+      ,
+      <datum date="17.06.2015">Mittwoch, den 17. Juni 2015</datum>
+    </veranstaltungsdaten>
+  </kopfdaten>
+  <inhaltsverzeichnis>
+    <ivz-titel>Inhalt:</ivz-titel>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 1: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>a) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Verbesserung der Hospizund Palliativversorgung in Deutschland (Hospiz- und Palliativgesetz – HPG) Drucksache 18/5170</ivz-eintrag-inhalt>
+        <a href="S10643" typ="druckseitennummer">
+          <seite>10643</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003869"><name><vorname>Sabine</vorname><nachname>Zimmermann</nachname><ortszusatz>(Zwickau)</ortszusatz><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>b) Antrag der Abgeordneten Birgit Wöllert, Pia Zimmermann, Sabine Zimmermann (Zwickau), weiterer Abgeordneter und der Fraktion DIE LINKE: Hochwertige Palliativ- und Hospizversorgung als soziales Menschenrecht sichern Drucksache 18/5202</ivz-eintrag-inhalt>
+        <a href="S10643" typ="druckseitennummer">
+          <seite>10643</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003259"><name><vorname>Annette</vorname><nachname>Widmann-Mauz</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Annette Widmann-Mauz, Parl. Staatssekretärin BMG</ivz-eintrag-inhalt>
+        <a href="S10643" typ="druckseitennummer">
+          <seite>10643</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004454"><name><vorname>Pia</vorname><nachname>Zimmermann</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Pia Zimmermann (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S10645" typ="druckseitennummer">
+          <seite>10645</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003588"><name><vorname>Hilde</vorname><nachname>Mattheis</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Hilde Mattheis (SPD)</ivz-eintrag-inhalt>
+        <a href="S10646" typ="druckseitennummer">
+          <seite>10646</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003835"><name><vorname>Elisabeth</vorname><nachname>Scharfenberg</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Elisabeth Scharfenberg (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S10647" typ="druckseitennummer">
+          <seite>10647</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003638"><name><vorname>Jens</vorname><nachname>Spahn</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Jens Spahn (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S10648" typ="druckseitennummer">
+          <seite>10648</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004181"><name><vorname>Kathrin</vorname><nachname>Vogler</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Kathrin Vogler (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S10650" typ="druckseitennummer">
+          <seite>10650</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003010"><name><vorname>Helga</vorname><nachname>Kühn-Mengel</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Helga Kühn-Mengel (SPD)</ivz-eintrag-inhalt>
+        <a href="S10651" typ="druckseitennummer">
+          <seite>10651</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003854"><name><titel>Dr.</titel><vorname>Harald</vorname><nachname>Terpe</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Dr. Harald Terpe (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S10652" typ="druckseitennummer">
+          <seite>10652</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004452"><name><vorname>Emmi</vorname><nachname>Zeulner</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Emmi Zeulner (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S10652" typ="druckseitennummer">
+          <seite>10652</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004358"><name><vorname>Bettina</vorname><nachname>Müller</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Bettina Müller (SPD)</ivz-eintrag-inhalt>
+        <a href="S10654" typ="druckseitennummer">
+          <seite>10654</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004139"><name><vorname>Erwin</vorname><nachname>Rüddel</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Erwin Rüddel (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S10654" typ="druckseitennummer">
+          <seite>10654</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 2: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Befragung der Bundesregierung: Beschluss zur Nichtinanspruchnahme der Übergangsregelungen der zweiten Stufe des Beitrittsvertrags mit Kroatien in Bezug auf die Arbeitnehmerfreizügigkeit und die Entsendung von Arbeitnehmern bei der grenzüberschreitenden Dienstleistungserbringung für den Zeitraum ab 1. Juli 2015; weitere Fragen</ivz-eintrag-inhalt>
+        <a href="S10655" typ="druckseitennummer">
+          <seite>10655</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003196"><name><vorname>Andrea</vorname><nachname>Nahles</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Andrea Nahles, Bundesministerin BMAS</ivz-eintrag-inhalt>
+        <a href="S10655" typ="druckseitennummer">
+          <seite>10655</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003823"><name><vorname>Brigitte</vorname><nachname>Pothmer</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Brigitte Pothmer (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S10656" typ="druckseitennummer">
+          <seite>10656</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003196"><name><vorname>Andrea</vorname><nachname>Nahles</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Andrea Nahles, Bundesministerin BMAS</ivz-eintrag-inhalt>
+        <a href="S10656" typ="druckseitennummer">
+          <seite>10656</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004371"><name><vorname>Markus</vorname><nachname>Paschke</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Markus Paschke (SPD)</ivz-eintrag-inhalt>
+        <a href="S10657" typ="druckseitennummer">
+          <seite>10657</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003196"><name><vorname>Andrea</vorname><nachname>Nahles</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Andrea Nahles, Bundesministerin BMAS</ivz-eintrag-inhalt>
+        <a href="S10657" typ="druckseitennummer">
+          <seite>10657</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004080"><name><vorname>Jutta</vorname><nachname>Krellmann</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Jutta Krellmann (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S10657" typ="druckseitennummer">
+          <seite>10657</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003196"><name><vorname>Andrea</vorname><nachname>Nahles</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Andrea Nahles, Bundesministerin BMAS</ivz-eintrag-inhalt>
+        <a href="S10657" typ="druckseitennummer">
+          <seite>10657</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004277"><name><titel>Dr.</titel><vorname>Astrid</vorname><nachname>Freudenstein</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Astrid Freudenstein (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S10658" typ="druckseitennummer">
+          <seite>10658</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003196"><name><vorname>Andrea</vorname><nachname>Nahles</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Andrea Nahles, Bundesministerin BMAS</ivz-eintrag-inhalt>
+        <a href="S10658" typ="druckseitennummer">
+          <seite>10658</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003782"><name><vorname>Josip</vorname><nachname>Juratovic</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Josip Juratovic (SPD)</ivz-eintrag-inhalt>
+        <a href="S10658" typ="druckseitennummer">
+          <seite>10658</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003196"><name><vorname>Andrea</vorname><nachname>Nahles</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Andrea Nahles, Bundesministerin BMAS</ivz-eintrag-inhalt>
+        <a href="S10658" typ="druckseitennummer">
+          <seite>10658</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004373"><name><titel>Dr.</titel><vorname>Martin</vorname><nachname>Pätzold</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Martin Pätzold (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S10659" typ="druckseitennummer">
+          <seite>10659</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003196"><name><vorname>Andrea</vorname><nachname>Nahles</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Andrea Nahles, Bundesministerin BMAS</ivz-eintrag-inhalt>
+        <a href="S10659" typ="druckseitennummer">
+          <seite>10659</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003888"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Strengmann-Kuhn</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Dr. Wolfgang Strengmann-Kuhn (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S10659" typ="druckseitennummer">
+          <seite>10659</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003196"><name><vorname>Andrea</vorname><nachname>Nahles</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Andrea Nahles, Bundesministerin BMAS</ivz-eintrag-inhalt>
+        <a href="S10659" typ="druckseitennummer">
+          <seite>10659</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004080"><name><vorname>Jutta</vorname><nachname>Krellmann</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Jutta Krellmann (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S10659" typ="druckseitennummer">
+          <seite>10659</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003196"><name><vorname>Andrea</vorname><nachname>Nahles</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Andrea Nahles, Bundesministerin BMAS</ivz-eintrag-inhalt>
+        <a href="S10659" typ="druckseitennummer">
+          <seite>10659</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003764"><name><vorname>Britta</vorname><nachname>Haßelmann</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Britta Haßelmann (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S10660" typ="druckseitennummer">
+          <seite>10660</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003196"><name><vorname>Andrea</vorname><nachname>Nahles</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Andrea Nahles, Bundesministerin BMAS</ivz-eintrag-inhalt>
+        <a href="S10660" typ="druckseitennummer">
+          <seite>10660</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004614"><name><vorname>Angelika</vorname><nachname>Glöckner</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Angelika Glöckner (SPD)</ivz-eintrag-inhalt>
+        <a href="S10660" typ="druckseitennummer">
+          <seite>10660</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003196"><name><vorname>Andrea</vorname><nachname>Nahles</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Andrea Nahles, Bundesministerin BMAS</ivz-eintrag-inhalt>
+        <a href="S10660" typ="druckseitennummer">
+          <seite>10660</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003764"><name><vorname>Britta</vorname><nachname>Haßelmann</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Britta Haßelmann (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S10660" typ="druckseitennummer">
+          <seite>10660</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003196"><name><vorname>Andrea</vorname><nachname>Nahles</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Andrea Nahles, Bundesministerin BMAS</ivz-eintrag-inhalt>
+        <a href="S10660" typ="druckseitennummer">
+          <seite>10660</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 3: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Fragestunde Drucksache 18/5160</ivz-eintrag-inhalt>
+        <a href="S10660" typ="druckseitennummer">
+          <seite>10660</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003527"><name><titel>Dr.</titel><vorname>Maria</vorname><nachname>Flachsbarth</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 10 Friedrich Ostendorff (BÜNDNIS 90/DIE GRÜNEN) Ergebnisse des Staatssekretärsauschusses Tierschutz zur Kleingruppenhaltung Antwort Dr. Maria Flachsbarth, Parl. Staatssekretärin BMEL</ivz-eintrag-inhalt>
+        <a href="S10661" typ="druckseitennummer">
+          <seite>10661</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003604"><name><vorname>Friedrich</vorname><nachname>Ostendorff</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Zusatzfragen Friedrich Ostendorff (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S10661" typ="druckseitennummer">
+          <seite>10661</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11000535"><name><vorname>Elke</vorname><nachname>Ferner</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Mündliche Fragen 13 und 14 Ulle Schauws (BÜNDNIS 90/DIE GRÜNEN) EU-Richtlinie für eine Frauenquote in Aufsichtsräten börsennotierter Unternehmen Antwort Elke Ferner, Parl. Staatssekretärin BMFSFJ</ivz-eintrag-inhalt>
+        <a href="S10662" typ="druckseitennummer">
+          <seite>10662</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004395"><name><vorname>Ulle</vorname><nachname>Schauws</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Zusatzfragen Ulle Schauws (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S10662" typ="druckseitennummer">
+          <seite>10662</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003525"><name><vorname>Enak</vorname><nachname>Ferlemann</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 15 Matthias Gastel (BÜNDNIS 90/DIE GRÜNEN) Stopp der Bohrarbeiten für den Fildertunnel bei Stuttgart-Fasanenhof aufgrund fehlender Unterfahrungsrechte Antwort Enak Ferlemann, Parl. Staatssekretär BMVI</ivz-eintrag-inhalt>
+        <a href="S10662" typ="druckseitennummer">
+          <seite>10662</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004278"><name><vorname>Matthias</vorname><nachname>Gastel</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Zusatzfrage Matthias Gastel (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S10663" typ="druckseitennummer">
+          <seite>10663</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003525"><name><vorname>Enak</vorname><nachname>Ferlemann</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 16 Matthias Gastel (BÜNDNIS 90/DIE GRÜNEN) Erhalt und Ausbau des Neckars durch den Bund Antwort Enak Ferlemann, Parl. Staatssekretär BMVI</ivz-eintrag-inhalt>
+        <a href="S10663" typ="druckseitennummer">
+          <seite>10663</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004278"><name><vorname>Matthias</vorname><nachname>Gastel</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Zusatzfragen Matthias Gastel (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S10663" typ="druckseitennummer">
+          <seite>10663</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 4: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Vereinbarte Debatte: 17. Juni 1953 – Für Freiheit, Recht und Einheit</ivz-eintrag-inhalt>
+        <a href="S10664" typ="druckseitennummer">
+          <seite>10664</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003860"><name><vorname>Kai</vorname><nachname>Wegner</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Kai Wegner (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S10664" typ="druckseitennummer">
+          <seite>10664</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004103"><name><vorname>Thomas</vorname><nachname>Lutze</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Thomas Lutze (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S10665" typ="druckseitennummer">
+          <seite>10665</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11000687"><name><vorname>Iris</vorname><nachname>Gleicke</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Iris Gleicke (SPD)</ivz-eintrag-inhalt>
+        <a href="S10667" typ="druckseitennummer">
+          <seite>10667</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002720"><name><vorname>Steffi</vorname><nachname>Lemke</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Steffi Lemke (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S10668" typ="druckseitennummer">
+          <seite>10668</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002812"><name><vorname>Max</vorname><nachname>Straubinger</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Max Straubinger (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S10669" typ="druckseitennummer">
+          <seite>10669</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004318"><name><vorname>Thomas</vorname><nachname>Jurk</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Thomas Jurk (SPD)</ivz-eintrag-inhalt>
+        <a href="S10670" typ="druckseitennummer">
+          <seite>10670</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003854"><name><titel>Dr.</titel><vorname>Harald</vorname><nachname>Terpe</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Dr. Harald Terpe (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S10671" typ="druckseitennummer">
+          <seite>10671</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004032"><name><titel>Dr.</titel><vorname>Thomas</vorname><nachname>Feist</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Thomas Feist (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S10672" typ="druckseitennummer">
+          <seite>10672</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Nächste Sitzung</ivz-eintrag-inhalt>
+        <a href="S10673" typ="druckseitennummer">
+          <seite>10673</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 1</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Liste der entschuldigten Abgeordneten</ivz-eintrag-inhalt>
+        <a href="S10675" typ="druckseitennummer">
+          <seite>10675</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 2</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 1 Katrin Kunert (DIE LINKE) Maßnahmen und Projekte zur Umsetzung der Berliner Erklärung „Gemeinsam gegen Homophobie – für Vielfalt, Respekt und Akzeptanz im Sport“ Antwort Dr. Günter Krings, Parl. Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S10675" typ="druckseitennummer">
+          <seite>10675</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 3</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 2 Andrej Hunko (DIE LINKE) Durch Frontex initiierte Projekte zur Überwachung des Handels mit und der Nutzung von verdächtigen Schiffen Antwort Dr. Günter Krings, Parl. Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S10676" typ="druckseitennummer">
+          <seite>10676</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 4</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 3 Dr. Axel Troost (DIE LINKE) Ausgeschiedene Beamte des Direktoriums der BaFin mit einer im Zusammenhang mit ihrem letzten Dienstverhältnis stehenden neuen Tätigkeit in den letzten zehn Jahren Antwort Steffen Kampeter, Parl. Staatssekretär BMF</ivz-eintrag-inhalt>
+        <a href="S10676" typ="druckseitennummer">
+          <seite>10676</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 5</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 4 Dr. Axel Troost (DIE LINKE) Unter Verzicht auf Versorgungsansprüche und -bezüge ausgeschiedene Beamte des Direktoriums der BaFin in den letzten zehn Jahren Antwort Steffen Kampeter, Parl. Staatssekretär BMF</ivz-eintrag-inhalt>
+        <a href="S10677" typ="druckseitennummer">
+          <seite>10677</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 6</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 5 Bärbel Höhn (BÜNDNIS 90/DIE GRÜNEN) Todesfälle durch Kontakt mit Asbest seit 2010 Antwort Gabriele Lösekrug-Möller, Parl. Staatssekretärin BMAS</ivz-eintrag-inhalt>
+        <a href="S10677" typ="druckseitennummer">
+          <seite>10677</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 7</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 6 Sabine Zimmermann (Zwickau) (DIE LINKE) Streikanzeigepflicht der Deutschen Post bei der Agentur für Arbeit hinsichtlich des derzeit stattfindenden Streiks Antwort Gabriele Lösekrug-Möller, Parl. Staatssekretärin BMAS</ivz-eintrag-inhalt>
+        <a href="S10678" typ="druckseitennummer">
+          <seite>10678</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 8</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 7 Sabine Zimmermann (Zwickau) (DIE LINKE) Etwaige Vermittlung von Arbeitskräften während des Poststreiks durch die Bundesagentur für Arbeit an die Deutsche Post Antwort Gabriele Lösekrug-Möller, Parl. Staatssekretärin BMAS</ivz-eintrag-inhalt>
+        <a href="S10678" typ="druckseitennummer">
+          <seite>10678</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 9</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 8 Harald Weinberg (DIE LINKE) Zuständige Behörde für die Erstattung von durch sich illegal in Deutschland aufhaltende Flüchtlinge entstehenden Krankenhauskosten Antwort Gabriele Lösekrug-Möller, Parl. Staatssekretärin BMAS</ivz-eintrag-inhalt>
+        <a href="S10678" typ="druckseitennummer">
+          <seite>10678</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 10</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 9 Harald Weinberg (DIE LINKE) Behördliche Zuständigkeiten für illegal in Deutschland lebende Flüchtlinge Antwort Gabriele Lösekrug-Möller, Parl. Staatssekretärin BMAS</ivz-eintrag-inhalt>
+        <a href="S10679" typ="druckseitennummer">
+          <seite>10679</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 11</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 11 Katrin Kunert (DIE LINKE) Berücksichtigung zusätzlicher Krankheitsbilder anlässlich des Fachsymposiums zum Entschädigungsverfahren für Radarstrahlengeschädigte der Bundeswehr und der ehemaligen NVA Antwort Dr. Ralf Brauksiepe, Parl. Staatssekretär BMVg</ivz-eintrag-inhalt>
+        <a href="S10679" typ="druckseitennummer">
+          <seite>10679</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 12</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 12 Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN) Teilnehmer der Bundesregierung an der Bilderberg-Konferenz im Juni 2015 in Tirol Antwort Dr. Ralf Brauksiepe, Parl. Staatssekretär BMVg</ivz-eintrag-inhalt>
+        <a href="S10679" typ="druckseitennummer">
+          <seite>10679</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 13</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 17 Dr. Valerie Wilms (BÜNDNIS 90/DIE GRÜNEN) Kosten für die beiden Schiedsverfahren zwischen Bund und Toll Collect Antwort Enak Ferlemann, Parl. Staatssekretär BMVI</ivz-eintrag-inhalt>
+        <a href="S10680" typ="druckseitennummer">
+          <seite>10680</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 14</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 18 Dr. Valerie Wilms (BÜNDNIS 90/DIE GRÜNEN) Anzahl der Verhandlungen im Zusammenhang mit den beiden Schiedsverfahren zwischen Bund und Toll Collect seit Oktober 2014 Antwort Enak Ferlemann, Parl. Staatssekretär BMVI</ivz-eintrag-inhalt>
+        <a href="S10680" typ="druckseitennummer">
+          <seite>10680</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 15</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 19 Herbert Behrens (DIE LINKE) Umbau des ehemaligen Fliegerhorsts Friedrichsfeld zum Nachweis von Ausgleichsflächen für geschützte Vogel- und Pflanzenarten Antwort Enak Ferlemann, Parl. Staatssekretär BMVI</ivz-eintrag-inhalt>
+        <a href="S10680" typ="druckseitennummer">
+          <seite>10680</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 16</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 20 Herbert Behrens (DIE LINKE) Wirksamkeit von CEF-Maßnahmen Antwort Enak Ferlemann, Parl. Staatssekretär BMVI</ivz-eintrag-inhalt>
+        <a href="S10680" typ="druckseitennummer">
+          <seite>10680</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 17</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 21 Sylvia Kotting-Uhl (BÜNDNIS 90/DIE GRÜNEN) Konzept zur Verteilung der ausstehenden Castoren mit verglasten radioaktiven Wiederaufarbeitungsabfällen auf verschiedene standortnahe Zwischenlager Antwort Florian Pronold, Parl. Staatssekretär BMUB</ivz-eintrag-inhalt>
+        <a href="S10681" typ="druckseitennummer">
+          <seite>10681</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 18</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 22 Sylvia Kotting-Uhl (BÜNDNIS 90/DIE GRÜNEN) Offene Fragen zum Atomkraftwerk Gundremmingen der vom BMUB beauftragten Sachverständigenorganisationen Antwort Florian Pronold, Parl. Staatssekretär BMUB</ivz-eintrag-inhalt>
+        <a href="S10681" typ="druckseitennummer">
+          <seite>10681</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 19</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 23 Ulla Jelpke (DIE LINKE) Gesamtkosten des G-7-Gipfels in Elmau Antwort Dr. Helge Braun, Staatsminister BK</ivz-eintrag-inhalt>
+        <a href="S10682" typ="druckseitennummer">
+          <seite>10682</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 20</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 24 Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN) Ausgaben des Bundesnachrichtendienstes für Bewirtung, Beherbergung und Fahrgeschäfte anlässlich des Münchner Oktoberfests seit 2005 Antwort Klaus-Dieter Fritsche, Staatssekretär BK</ivz-eintrag-inhalt>
+        <a href="S10682" typ="druckseitennummer">
+          <seite>10682</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 21</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 25 Bärbel Höhn (BÜNDNIS 90/DIE GRÜNEN) Bereichsausnahme für Friedhofs- und Bestattungsdienstleistungen im Rahmen des Annex des CETA-Abkommens Antwort Brigitte Zypries, Parl. Staatssekretärin BMWi</ivz-eintrag-inhalt>
+        <a href="S10682" typ="druckseitennummer">
+          <seite>10682</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 22</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 26 Oliver Krischer (BÜNDNIS 90/DIE GRÜNEN) Ausschöpfung der De-minimis-Regelung bei der geplanten Ausschreibung von Windenergieanlagen Antwort Brigitte Zypries, Parl. Staatssekretärin BMWi</ivz-eintrag-inhalt>
+        <a href="S10682" typ="druckseitennummer">
+          <seite>10682</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 23</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 27 Oliver Krischer (BÜNDNIS 90/DIE GRÜNEN) Treffen zwischen der Bundesregierung und Branchenvertretern seit Vorstellung des Eckpunktepapiers des BMWi zur CO 2Minderung im Kraftwerkspark Antwort Brigitte Zypries, Parl. Staatssekretärin BMWi</ivz-eintrag-inhalt>
+        <a href="S10683" typ="druckseitennummer">
+          <seite>10683</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 24</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 28 Sevim Dağdelen (DIE LINKE) Export militärischer Ausrüstung in die Ukraine seit 2014 Antwort Brigitte Zypries, Parl. Staatssekretärin BMWi</ivz-eintrag-inhalt>
+        <a href="S10683" typ="druckseitennummer">
+          <seite>10683</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 25</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 29 Sevim Dağdelen (DIE LINKE) Eignung Saudi-Arabiens als Bündnispartner im Kampf gegen den islamistischen Fundamentalismus bzw. Terrorismus Antwort Dr. Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S10684" typ="druckseitennummer">
+          <seite>10684</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 26</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 30 Wolfgang Gehrcke (DIE LINKE) Rückgang der Zustimmung in Deutschland zur NATO Antwort Dr. Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S10684" typ="druckseitennummer">
+          <seite>10684</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 27</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 31 Wolfgang Gehrcke (DIE LINKE) Position der Bundesregierung zu einer NATO-Mitgliedschaft der Ukraine Antwort Dr. Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S10684" typ="druckseitennummer">
+          <seite>10684</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 28</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 32 Andrej Hunko (DIE LINKE) Abweichung von Verpflichtungen aus der Europäischen Menschenrechtskonvention durch die Ukraine Antwort Dr. Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S10684" typ="druckseitennummer">
+          <seite>10684</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 29</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 33 Ulla Jelpke (DIE LINKE) Wartezeiten für die Beantragung eines Visums zur Familienzusammenführung zu in Deutschland anerkannten syrischen Flüchtlingen in den deutschen Botschaften im Nahen Osten Antwort Dr. Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S10685" typ="druckseitennummer">
+          <seite>10685</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+  </inhaltsverzeichnis>
+</vorspann>

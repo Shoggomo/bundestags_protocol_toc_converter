@@ -1,0 +1,880 @@
+<vorspann>
+  <kopfdaten>
+    <plenarprotokoll-nummer>
+      Plenarprotokoll
+      <wahlperiode>18</wahlperiode>
+      /
+      <sitzungsnr>151</sitzungsnr>
+    </plenarprotokoll-nummer>
+    <herausgeber>Deutscher Bundestag</herausgeber>
+    <berichtart>Stenografischer Bericht</berichtart>
+    <sitzungstitel>
+      <sitzungsnr>151</sitzungsnr>
+      . Sitzung
+    </sitzungstitel>
+    <veranstaltungsdaten>
+      <ort>Berlin</ort>
+      ,
+      <datum date="27.01.2016">Mittwoch, den 27. Januar 2016</datum>
+    </veranstaltungsdaten>
+  </kopfdaten>
+  <inhaltsverzeichnis>
+    <ivz-titel>Inhalt:</ivz-titel>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 1: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Befragung der Bundesregierung: Entwurf eines Gesetzes zur Erleichterung des Ausbaus digitaler Hochgeschwindigkeitsnetze; sonstige Fragen Alexander Dobrindt, Bundesminister BMVI</ivz-eintrag-inhalt>
+        <a href="S14833" typ="druckseitennummer">
+          <seite>14833</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004138"><name><vorname>Tabea</vorname><nachname>Rößner</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Tabea Rößner (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S14834" typ="druckseitennummer">
+          <seite>14834</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003516"><name><vorname>Alexander</vorname><nachname>Dobrindt</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Alexander Dobrindt, Bundesminister BMVI</ivz-eintrag-inhalt>
+        <a href="S14834" typ="druckseitennummer">
+          <seite>14834</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004267"><name><vorname>Saskia</vorname><nachname>Esken</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Saskia Esken (SPD)</ivz-eintrag-inhalt>
+        <a href="S14834" typ="druckseitennummer">
+          <seite>14834</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003516"><name><vorname>Alexander</vorname><nachname>Dobrindt</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Alexander Dobrindt, Bundesminister BMVI</ivz-eintrag-inhalt>
+        <a href="S14835" typ="druckseitennummer">
+          <seite>14835</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004007"><name><vorname>Herbert</vorname><nachname>Behrens</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Herbert Behrens (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14835" typ="druckseitennummer">
+          <seite>14835</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003516"><name><vorname>Alexander</vorname><nachname>Dobrindt</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Alexander Dobrindt, Bundesminister BMVI</ivz-eintrag-inhalt>
+        <a href="S14835" typ="druckseitennummer">
+          <seite>14835</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004430"><name><vorname>Thomas</vorname><nachname>Viesehon</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Thomas Viesehon (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S14835" typ="druckseitennummer">
+          <seite>14835</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003516"><name><vorname>Alexander</vorname><nachname>Dobrindt</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Alexander Dobrindt, Bundesminister BMVI</ivz-eintrag-inhalt>
+        <a href="S14835" typ="druckseitennummer">
+          <seite>14835</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004366"><name><vorname>Florian</vorname><nachname>Oßner</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Florian Oßner (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S14836" typ="druckseitennummer">
+          <seite>14836</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003516"><name><vorname>Alexander</vorname><nachname>Dobrindt</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Alexander Dobrindt, Bundesminister BMVI</ivz-eintrag-inhalt>
+        <a href="S14836" typ="druckseitennummer">
+          <seite>14836</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004138"><name><vorname>Tabea</vorname><nachname>Rößner</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Tabea Rößner (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S14836" typ="druckseitennummer">
+          <seite>14836</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003516"><name><vorname>Alexander</vorname><nachname>Dobrindt</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Alexander Dobrindt, Bundesminister BMVI</ivz-eintrag-inhalt>
+        <a href="S14836" typ="druckseitennummer">
+          <seite>14836</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004007"><name><vorname>Herbert</vorname><nachname>Behrens</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Herbert Behrens (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14836" typ="druckseitennummer">
+          <seite>14836</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003516"><name><vorname>Alexander</vorname><nachname>Dobrindt</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Alexander Dobrindt, Bundesminister BMVI</ivz-eintrag-inhalt>
+        <a href="S14837" typ="druckseitennummer">
+          <seite>14837</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004061"><name><vorname>Thomas</vorname><nachname>Jarzombek</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Thomas Jarzombek (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S14837" typ="druckseitennummer">
+          <seite>14837</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003516"><name><vorname>Alexander</vorname><nachname>Dobrindt</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Alexander Dobrindt, Bundesminister BMVI</ivz-eintrag-inhalt>
+        <a href="S14837" typ="druckseitennummer">
+          <seite>14837</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004081"><name><vorname>Oliver</vorname><nachname>Krischer</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Oliver Krischer (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S14837" typ="druckseitennummer">
+          <seite>14837</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003516"><name><vorname>Alexander</vorname><nachname>Dobrindt</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Alexander Dobrindt, Bundesminister BMVI</ivz-eintrag-inhalt>
+        <a href="S14838" typ="druckseitennummer">
+          <seite>14838</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004278"><name><vorname>Matthias</vorname><nachname>Gastel</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Matthias Gastel (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S14838" typ="druckseitennummer">
+          <seite>14838</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003516"><name><vorname>Alexander</vorname><nachname>Dobrindt</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Alexander Dobrindt, Bundesminister BMVI</ivz-eintrag-inhalt>
+        <a href="S14838" typ="druckseitennummer">
+          <seite>14838</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004190"><name><titel>Dr.</titel><vorname>Valerie</vorname><nachname>Wilms</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Dr Valerie Wilms (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S14839" typ="druckseitennummer">
+          <seite>14839</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003516"><name><vorname>Alexander</vorname><nachname>Dobrindt</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Alexander Dobrindt, Bundesminister BMVI</ivz-eintrag-inhalt>
+        <a href="S14839" typ="druckseitennummer">
+          <seite>14839</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004353"><name><titel>Dr.</titel><vorname>Irene</vorname><nachname>Mihalic</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S14839" typ="druckseitennummer">
+          <seite>14839</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003574"><name><titel>Dr.</titel><vorname>Günter</vorname><nachname>Krings</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr Günter Krings, Parl Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S14839" typ="druckseitennummer">
+          <seite>14839</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002625"><name><vorname>Volker</vorname><nachname>Beck</nachname><ortszusatz>(Köln)</ortszusatz><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S14839" typ="druckseitennummer">
+          <seite>14839</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003516"><name><vorname>Alexander</vorname><nachname>Dobrindt</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Alexander Dobrindt, Bundesminister BMVI</ivz-eintrag-inhalt>
+        <a href="S14840" typ="druckseitennummer">
+          <seite>14840</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003764"><name><vorname>Britta</vorname><nachname>Haßelmann</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Britta Haßelmann (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S14840" typ="druckseitennummer">
+          <seite>14840</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003510"><name><titel>Prof. Dr.</titel><vorname>Helge</vorname><nachname>Braun</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr Helge Braun, Staatsminister bei der Bundeskanzlerin</ivz-eintrag-inhalt>
+        <a href="S14840" typ="druckseitennummer">
+          <seite>14840</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003130"><name><vorname>Wolfgang</vorname><nachname>Gehrcke</nachname><fraktion>Fraktion der Partei des Demokratischen Sozialismus</fraktion></name></redner>Wolfgang Gehrcke (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14841" typ="druckseitennummer">
+          <seite>14841</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002630"><name><titel>Dr.</titel><vorname>Maria</vorname><nachname>Böhmer</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr Maria Böhmer, Staatsministerin im Auswärtigen Amt</ivz-eintrag-inhalt>
+        <a href="S14841" typ="druckseitennummer">
+          <seite>14841</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004081"><name><vorname>Oliver</vorname><nachname>Krischer</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Oliver Krischer (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S14841" typ="druckseitennummer">
+          <seite>14841</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003516"><name><vorname>Alexander</vorname><nachname>Dobrindt</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Alexander Dobrindt, Bundesminister BMVI</ivz-eintrag-inhalt>
+        <a href="S14841" typ="druckseitennummer">
+          <seite>14841</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 2: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Fragestunde Drucksache 18/7330</ivz-eintrag-inhalt>
+        <a href="S14842" typ="druckseitennummer">
+          <seite>14842</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002630"><name><titel>Dr.</titel><vorname>Maria</vorname><nachname>Böhmer</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 2 Wolfgang Gehrcke (DIE LINKE) Verhandlungen mit der Opposition und der Regierung Syriens über Waffenstillstände und die Gewährung humanitärer Hilfe Antwort Dr Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S14842" typ="druckseitennummer">
+          <seite>14842</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003130"><name><vorname>Wolfgang</vorname><nachname>Gehrcke</nachname><fraktion>Fraktion der Partei des Demokratischen Sozialismus</fraktion></name></redner>Zusatzfragen Wolfgang Gehrcke (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14842" typ="druckseitennummer">
+          <seite>14842</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003763"><name><vorname>Heike</vorname><nachname>Hänsel</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Heike Hänsel (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14843" typ="druckseitennummer">
+          <seite>14843</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002273"><name><vorname>Hans-Christian</vorname><nachname>Ströbele</nachname><fraktion>Fraktion Die Grünen</fraktion></name></redner>Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S14843" typ="druckseitennummer">
+          <seite>14843</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002630"><name><titel>Dr.</titel><vorname>Maria</vorname><nachname>Böhmer</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 3 Wolfgang Gehrcke (DIE LINKE) Ziele der Bundesregierung bei den Ende Januar 2016 beginnenden Verhandlungen zur Beendigung des syrischen Konfliktes Antwort Dr Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S14843" typ="druckseitennummer">
+          <seite>14843</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003130"><name><vorname>Wolfgang</vorname><nachname>Gehrcke</nachname><fraktion>Fraktion der Partei des Demokratischen Sozialismus</fraktion></name></redner>Zusatzfragen Wolfgang Gehrcke (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14844" typ="druckseitennummer">
+          <seite>14844</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003763"><name><vorname>Heike</vorname><nachname>Hänsel</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Heike Hänsel (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14844" typ="druckseitennummer">
+          <seite>14844</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002273"><name><vorname>Hans-Christian</vorname><nachname>Ströbele</nachname><fraktion>Fraktion Die Grünen</fraktion></name></redner>Mündliche Frage 4 Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN) Unabhängigkeit der Parlamentsabgeordneten und Regierungsmitglieder in Libyen Antwort Dr Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S14845" typ="druckseitennummer">
+          <seite>14845</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002273"><name><vorname>Hans-Christian</vorname><nachname>Ströbele</nachname><fraktion>Fraktion Die Grünen</fraktion></name></redner>Zusatzfragen Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S14845" typ="druckseitennummer">
+          <seite>14845</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003746"><name><vorname>Sevim</vorname><nachname>Dağdelen</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Sevim Dağdelen (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14846" typ="druckseitennummer">
+          <seite>14846</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003763"><name><vorname>Heike</vorname><nachname>Hänsel</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Heike Hänsel (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14846" typ="druckseitennummer">
+          <seite>14846</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002630"><name><titel>Dr.</titel><vorname>Maria</vorname><nachname>Böhmer</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 5 Heike Hänsel (DIE LINKE) Ermordung von Menschenrechtsverteidigern in Kolumbien im Jahr 2015 Antwort Dr Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S14846" typ="druckseitennummer">
+          <seite>14846</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003763"><name><vorname>Heike</vorname><nachname>Hänsel</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Zusatzfragen Heike Hänsel (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14847" typ="druckseitennummer">
+          <seite>14847</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002630"><name><titel>Dr.</titel><vorname>Maria</vorname><nachname>Böhmer</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 6 Heike Hänsel (DIE LINKE) Konsequenzen aus der Repression der türkischen Regierung gegen Andersdenkende Antwort Dr Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S14848" typ="druckseitennummer">
+          <seite>14848</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003763"><name><vorname>Heike</vorname><nachname>Hänsel</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Zusatzfragen Heike Hänsel (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14848" typ="druckseitennummer">
+          <seite>14848</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003746"><name><vorname>Sevim</vorname><nachname>Dağdelen</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Sevim Dağdelen (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14848" typ="druckseitennummer">
+          <seite>14848</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004449"><name><vorname>Hubertus</vorname><nachname>Zdebel</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Hubertus Zdebel (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14849" typ="druckseitennummer">
+          <seite>14849</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002630"><name><titel>Dr.</titel><vorname>Maria</vorname><nachname>Böhmer</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 8 Sevim Dağdelen (DIE LINKE) Nutzung von Informationen aus der Datenbank der Anti-IS-Koalition durch die Türkei und Saudi-Arabien gegen nicht genehme Gruppen Antwort Dr Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S14849" typ="druckseitennummer">
+          <seite>14849</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003746"><name><vorname>Sevim</vorname><nachname>Dağdelen</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Zusatzfragen Sevim Dağdelen (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14850" typ="druckseitennummer">
+          <seite>14850</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003763"><name><vorname>Heike</vorname><nachname>Hänsel</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Heike Hänsel (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14850" typ="druckseitennummer">
+          <seite>14850</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002625"><name><vorname>Volker</vorname><nachname>Beck</nachname><ortszusatz>(Köln)</ortszusatz><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Mündliche Frage 9 Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜNEN) Schutz von Frauen in Algerien, Marokko und Tunesien vor sexueller Gewalt Antwort Dr Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S14850" typ="druckseitennummer">
+          <seite>14850</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002625"><name><vorname>Volker</vorname><nachname>Beck</nachname><ortszusatz>(Köln)</ortszusatz><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Zusatzfragen Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S14851" typ="druckseitennummer">
+          <seite>14851</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002625"><name><vorname>Volker</vorname><nachname>Beck</nachname><ortszusatz>(Köln)</ortszusatz><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Mündliche Frage 10 Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜNEN) Auswirkung einer positiven Sozialprognose auf Strafumfang und Aufenthaltsstatus eines Ausländers Antwort Dr Günter Krings, Parl Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S14852" typ="druckseitennummer">
+          <seite>14852</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002625"><name><vorname>Volker</vorname><nachname>Beck</nachname><ortszusatz>(Köln)</ortszusatz><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Zusatzfragen Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S14852" typ="druckseitennummer">
+          <seite>14852</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003867"><name><vorname>Jörn</vorname><nachname>Wunderlich</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Jörn Wunderlich (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14853" typ="druckseitennummer">
+          <seite>14853</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003574"><name><titel>Dr.</titel><vorname>Günter</vorname><nachname>Krings</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 15 Dr. Franziska Brantner (BÜNDNIS 90/DIE GRÜNEN) Einstufung Algeriens und Marokkos als sichere Herkunftsstaaten Antwort Dr Günter Krings, Parl Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S14854" typ="druckseitennummer">
+          <seite>14854</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004255"><name><titel>Dr.</titel><vorname>Franziska</vorname><nachname>Brantner</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Zusatzfragen Dr Franziska Brantner (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S14854" typ="druckseitennummer">
+          <seite>14854</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003574"><name><titel>Dr.</titel><vorname>Günter</vorname><nachname>Krings</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Fragen 16 und 17 Martina Renner (DIE LINKE) Konsequenzen bzw. Unterrichtung von Behörden nach einem Waffenfund im Auto von Anders Breivik im Jahr 2011 Antwort Dr Günter Krings, Parl Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S14854" typ="druckseitennummer">
+          <seite>14854</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003055"><name><titel>Dr.</titel><vorname>Ralf</vorname><nachname>Brauksiepe</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 27 Dr. Franziska Brantner (BÜNDNIS 90/DIE GRÜNEN) Etwaiger Einsatz der Bundeswehr nach dem Zustandekommen einer Einheitsregierung in Libyen Antwort Dr Ralf Brauksiepe, Parl Staatssekretär BMVg</ivz-eintrag-inhalt>
+        <a href="S14855" typ="druckseitennummer">
+          <seite>14855</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004255"><name><titel>Dr.</titel><vorname>Franziska</vorname><nachname>Brantner</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Zusatzfragen Dr Franziska Brantner (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S14855" typ="druckseitennummer">
+          <seite>14855</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003259"><name><vorname>Annette</vorname><nachname>Widmann-Mauz</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 30 Hubertus Zdebel (DIE LINKE) Bereitstellung von Mitteln zur Ursachenforschung bezüglich der Zunahme von Krebserkrankungen im Landkreis Rotenburg/Wümme Antwort Annette Widmann-Mauz, Parl Staatssekretärin BMG</ivz-eintrag-inhalt>
+        <a href="S14856" typ="druckseitennummer">
+          <seite>14856</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004449"><name><vorname>Hubertus</vorname><nachname>Zdebel</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Zusatzfragen Hubertus Zdebel (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14856" typ="druckseitennummer">
+          <seite>14856</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003597"><name><vorname>Stefan</vorname><nachname>Müller</nachname><ortszusatz>(Erlangen)</ortszusatz><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mündliche Frage 38 Hubertus Zdebel (DIE LINKE) Vorbereitung eines Exports von Castorbehältern mit radioaktiven Brennelementen aus Jülich in die USA Antwort Stefan Müller, Parl Staatssekretär BMBF</ivz-eintrag-inhalt>
+        <a href="S14857" typ="druckseitennummer">
+          <seite>14857</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004449"><name><vorname>Hubertus</vorname><nachname>Zdebel</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Zusatzfragen Hubertus Zdebel (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14858" typ="druckseitennummer">
+          <seite>14858</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Zusatztagesordnungspunkt 1: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Aktuelle Stunde auf Verlangen der Fraktion DIE LINKE: Haltung der Bundesregierung zu aktuellen Armuts- und Reichtumsstudien Dr Dietmar Bartsch (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14858" typ="druckseitennummer">
+          <seite>14858</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004192"><name><titel>Prof. Dr.</titel><vorname>Matthias</vorname><nachname>Zimmer</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr Matthias Zimmer (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S14859" typ="druckseitennummer">
+          <seite>14859</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003493"><name><vorname>Kerstin</vorname><nachname>Andreae</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Kerstin Andreae (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S14861" typ="druckseitennummer">
+          <seite>14861</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004079"><name><vorname>Daniela</vorname><nachname>Kolbe</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Daniela Kolbe (SPD)</ivz-eintrag-inhalt>
+        <a href="S14862" typ="druckseitennummer">
+          <seite>14862</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004098"><name><titel>Dr.</titel><vorname>Carsten</vorname><nachname>Linnemann</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr Carsten Linnemann (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S14863" typ="druckseitennummer">
+          <seite>14863</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003869"><name><vorname>Sabine</vorname><nachname>Zimmermann</nachname><ortszusatz>(Zwickau)</ortszusatz><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Sabine Zimmermann (Zwickau) (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S14864" typ="druckseitennummer">
+          <seite>14864</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003440"><name><vorname>Kerstin</vorname><nachname>Griese</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Kerstin Griese (SPD)</ivz-eintrag-inhalt>
+        <a href="S14865" typ="druckseitennummer">
+          <seite>14865</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003888"><name><titel>Dr.</titel><vorname>Wolfgang</vorname><nachname>Strengmann-Kuhn</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Dr Wolfgang Strengmann-Kuhn (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S14866" typ="druckseitennummer">
+          <seite>14866</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004341"><name><vorname>Antje</vorname><nachname>Lezius</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Antje Lezius (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S14868" typ="druckseitennummer">
+          <seite>14868</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004321"><name><vorname>Ralf</vorname><nachname>Kapschack</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Ralf Kapschack (SPD)</ivz-eintrag-inhalt>
+        <a href="S14869" typ="druckseitennummer">
+          <seite>14869</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002940"><name><vorname>Matthäus</vorname><nachname>Strebl</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Matthäus Strebl (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S14870" typ="druckseitennummer">
+          <seite>14870</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004443"><name><vorname>Kai</vorname><nachname>Whittaker</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Kai Whittaker (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S14871" typ="druckseitennummer">
+          <seite>14871</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Nächste Sitzung</ivz-eintrag-inhalt>
+        <a href="S14872" typ="druckseitennummer">
+          <seite>14872</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 1</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Liste der entschuldigten Abgeordneten</ivz-eintrag-inhalt>
+        <a href="S14873" typ="druckseitennummer">
+          <seite>14873</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 2</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 7 Omid Nouripour (BÜNDNIS 90/DIE GRÜNEN) Einsatz deutscher Waffen durch die kurdischen Peschmerga Antwort Dr Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S14873" typ="druckseitennummer">
+          <seite>14873</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 3</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 11 Sevim Dağdelen (DIE LINKE) Untätigkeitsklagen gegen das Bundesamt für Migration und Flüchtlinge Antwort Dr Günter Krings, Parl Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S14873" typ="druckseitennummer">
+          <seite>14873</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 4</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 12 Ulla Jelpke (DIE LINKE) Unerlaubte Einreisen im Jahr 2015 Antwort Dr Günter Krings, Parl Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S14874" typ="druckseitennummer">
+          <seite>14874</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 5</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 13 Ulla Jelpke (DIE LINKE) Umfang der Sicherheitsleistungen von Migranten bei unerlaubter Einreise nach § 66 Absatz 5 Aufenthaltsgesetz Antwort Dr Günter Krings, Parl Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S14874" typ="druckseitennummer">
+          <seite>14874</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 6</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 14 Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN) Überlegungen der dänischen Regierung zu Personenkontrollen an der Grenze auch bei deutschen Transportunternehmen Antwort Dr Günter Krings, Parl Staatssekretär BMI</ivz-eintrag-inhalt>
+        <a href="S14874" typ="druckseitennummer">
+          <seite>14874</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 7</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 18 Uwe Kekeritz (BÜNDNIS 90/DIE GRÜNEN) Stand der Verhandlungen zum Environmental and Social Framework bei der Asiatischen Infrastruktur-Investitionsbank Antwort Dr Michael Meister, Parl Staatssekretär BMF</ivz-eintrag-inhalt>
+        <a href="S14874" typ="druckseitennummer">
+          <seite>14874</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 8</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 19 Uwe Kekeritz (BÜNDNIS 90/DIE GRÜNEN) Ratifikation des Beitritts weiterer Mitglieder zur Asiatischen Infrastruktur-Investitionsbank Antwort Dr Michael Meister, Parl Staatssekretär BMF</ivz-eintrag-inhalt>
+        <a href="S14875" typ="druckseitennummer">
+          <seite>14875</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 9</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 20 Katrin Kunert (DIE LINKE) Kontrollen zur Durchsetzung des Mindestlohngesetzes im Bereich des Sports Antwort Dr Michael Meister, Parl Staatssekretär BMF</ivz-eintrag-inhalt>
+        <a href="S14875" typ="druckseitennummer">
+          <seite>14875</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 10</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 21 Katrin Kunert (DIE LINKE) Gründe für nicht durchgeführte Kontrollen zur Durchsetzung des Mindestlohngesetzes im Bereich des Sports Antwort Dr Michael Meister, Parl Staatssekretär BMF</ivz-eintrag-inhalt>
+        <a href="S14875" typ="druckseitennummer">
+          <seite>14875</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 11</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 22 Dr. André Hahn (DIE LINKE) Auswirkungen der Einführung des gesetzlichen Mindestlohnes auf den Spitzen- und Vereinssport Antwort Gabriele Lösekrug-Möller, Parl Staatssekretärin BMAS</ivz-eintrag-inhalt>
+        <a href="S14875" typ="druckseitennummer">
+          <seite>14875</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 12</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 23 Dr. André Hahn (DIE LINKE) Sozialversicherungspflichtig Beschäftigte im Bereich des Sports Antwort Gabriele Lösekrug-Möller, Parl Staatssekretärin BMAS</ivz-eintrag-inhalt>
+        <a href="S14876" typ="druckseitennummer">
+          <seite>14876</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 13</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 24 Brigitte Pothmer (BÜNDNIS 90/DIE GRÜNEN) Deckung von Mehrausgaben bei den Verwaltungskosten der Jobcenter im Haushaltsjahr 2015 Antwort Gabriele Lösekrug-Möller, Parl Staatssekretärin BMAS</ivz-eintrag-inhalt>
+        <a href="S14876" typ="druckseitennummer">
+          <seite>14876</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 14</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 25 Bärbel Höhn (BÜNDNIS 90/DIE GRÜNEN) EU-Verhandlungen mit Neuseeland und Australien zum Handel mit Milch und Fleischprodukten Antwort Dr Maria Flachsbarth, Parl Staatssekretärin BMEL</ivz-eintrag-inhalt>
+        <a href="S14876" typ="druckseitennummer">
+          <seite>14876</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 15</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 26 Bärbel Höhn (BÜNDNIS 90/DIE GRÜNEN) Vorschriften für den Ausschank von Heißgetränken in mitgebrachten Mehrwegbechern Antwort Dr Maria Flachsbarth, Parl Staatssekretärin BMEL</ivz-eintrag-inhalt>
+        <a href="S14876" typ="druckseitennummer">
+          <seite>14876</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 16</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 28 Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN) Verwendung der Ergebnisse der Aufklär ungsflüge der Bundeswehr über Syrien und dem Irak durch die Türkei und Russland Antwort Dr Ralf Brauksiepe, Parl Staatssekretär BMVg</ivz-eintrag-inhalt>
+        <a href="S14877" typ="druckseitennummer">
+          <seite>14877</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 17</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 29 Inge Höger (DIE LINKE) Abstimmung des AWACS-Einsatzes über Syrien und der Türkei mit dem russischen Militäreinsatz Antwort Dr Ralf Brauksiepe, Parl Staatssekretär BMVg</ivz-eintrag-inhalt>
+        <a href="S14877" typ="druckseitennummer">
+          <seite>14877</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 18</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 31 Matthias Gastel (BÜNDNIS 90/DIE GRÜNEN) Anzahl der aus Bayern und Baden-Württemberg gemeldeten Bahnstationen zur Aufnahme in das Bundesprogramm für die barrierefreie Modernisierung von kleinen Bahnhöfen Antwort Dorothee Bär, Parl Staatssekretärin BMVI</ivz-eintrag-inhalt>
+        <a href="S14877" typ="druckseitennummer">
+          <seite>14877</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 19</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 32 Matthias Gastel (BÜNDNIS 90/DIE GRÜNEN) Grund für die Ablehnung einer Maut für Fernbusse Antwort Dorothee Bär, Parl Staatssekretärin BMVI</ivz-eintrag-inhalt>
+        <a href="S14878" typ="druckseitennummer">
+          <seite>14878</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 20</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 33 Oliver Krischer (BÜNDNIS 90/DIE GRÜNEN) Veröffentlichung der Mitglieder der Untersuchungskommission zum VW-Abgasskandal in der Presse Antwort Dorothee Bär, Parl Staatssekretärin BMVI</ivz-eintrag-inhalt>
+        <a href="S14878" typ="druckseitennummer">
+          <seite>14878</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 21</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 34 Herbert Behrens (DIE LINKE) Mindestzahl von Bodenabfertigungsdienstleistern nach § 3 Absatz 2 BADV am Flughafen Düsseldorf Antwort Dorothee Bär, Parl Staatssekretärin BMVI</ivz-eintrag-inhalt>
+        <a href="S14878" typ="druckseitennummer">
+          <seite>14878</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 22</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 35 Herbert Behrens (DIE LINKE) EU-Rechtskonformität der Zulassung von Drittabfertigern auf Flughäfen Antwort Dorothee Bär, Parl Staatssekretärin BMVI</ivz-eintrag-inhalt>
+        <a href="S14878" typ="druckseitennummer">
+          <seite>14878</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 23</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 36 Sylvia Kotting-Uhl (BÜNDNIS 90/DIE GRÜNEN) Dokumente zu grenznahen AKWs in Archiven der Deutsch-Französischen Kommission und Deutsch-Schweizerischen Kommission Antwort Rita Schwarzelühr-Sutter, Parl Staatssekretärin BMUB</ivz-eintrag-inhalt>
+        <a href="S14878" typ="druckseitennummer">
+          <seite>14878</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 24</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 37 Sylvia Kotting-Uhl (BÜNDNIS 90/DIE GRÜNEN) Etwaige Vorfälle im Hinblick auf eine mangelhafte Sicherheitskultur im grenznahen Schweizer Atomkraftwerk Leibstadt Antwort Rita Schwarzelühr-Sutter, Parl Staatssekretärin BMUB</ivz-eintrag-inhalt>
+        <a href="S14879" typ="druckseitennummer">
+          <seite>14879</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 25</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 39 Andrej Hunko (DIE LINKE) Einsatz sogenannter Stiller SMS durch den BND Antwort Klaus-Dieter Fritsche, Staatssekretär BK</ivz-eintrag-inhalt>
+        <a href="S14879" typ="druckseitennummer">
+          <seite>14879</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 26</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 40 Oliver Krischer (BÜNDNIS 90/DIE GRÜNEN) Garantien gegenüber dem Betreiber der AKWs Doel 1 und Doel 2 im Rahmen der Laufzeitverlängerung Antwort Brigitte Zypries, Parl Staatssekretärin BMWi</ivz-eintrag-inhalt>
+        <a href="S14880" typ="druckseitennummer">
+          <seite>14880</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 27</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 41 Dr. Julia Verlinden (BÜNDNIS 90/DIE GRÜNEN) Erneuerbare-Energien-Anteile im Stromsektor für das Jahr 2020 Antwort Brigitte Zypries, Parl Staatssekretärin BMWi</ivz-eintrag-inhalt>
+        <a href="S14880" typ="druckseitennummer">
+          <seite>14880</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 28</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Mündliche Frage 42 Dr. Julia Verlinden (BÜNDNIS 90/DIE GRÜNEN) Nutzung der Verordnungsermächtigung aus § 94 des Erneuerbare-Energien-Gesetzes Antwort Brigitte Zypries, Parl Staatssekretärin BMWi</ivz-eintrag-inhalt>
+        <a href="S14880" typ="druckseitennummer">
+          <seite>14880</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+  </inhaltsverzeichnis>
+</vorspann>

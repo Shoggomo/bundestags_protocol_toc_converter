@@ -1,0 +1,538 @@
+<vorspann>
+  <kopfdaten>
+    <plenarprotokoll-nummer>
+      Plenarprotokoll
+      <wahlperiode>18</wahlperiode>
+      /
+      <sitzungsnr>61</sitzungsnr>
+    </plenarprotokoll-nummer>
+    <herausgeber>Deutscher Bundestag</herausgeber>
+    <berichtart>Stenografischer Bericht</berichtart>
+    <sitzungstitel>
+      <sitzungsnr>61</sitzungsnr>
+      . Sitzung
+    </sitzungstitel>
+    <veranstaltungsdaten>
+      <ort>Berlin</ort>
+      ,
+      <datum date="17.10.2014">Freitag, den 17. Oktober 2014</datum>
+    </veranstaltungsdaten>
+  </kopfdaten>
+  <inhaltsverzeichnis>
+    <ivz-titel>Inhalt:</ivz-titel>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 21: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>a) – Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Fünften Gesetzes zur Änderung des Elften Buches Sozialgesetzbuch – Leistungsausweitung für Pflegebedürftige, Pflegevorsorgefonds (Fünftes SGB XI-Änderungsgesetz – 5. SGB XI-ÄndG) Drucksachen 18/1798, 18/2379, 18/2909</ivz-eintrag-inhalt>
+        <a href="S5647" typ="druckseitennummer">
+          <seite>5647</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>– Bericht des Haushaltsausschusses gemäß § 96 der Geschäftsordnung Drucksache 18/2910</ivz-eintrag-inhalt>
+        <a href="S5647" typ="druckseitennummer">
+          <seite>5647</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003759"><name><vorname>Diana</vorname><nachname>Golze</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>b) Beschlussempfehlung und Bericht des Ausschusses für Gesundheit zu dem Antrag der Abgeordneten Pia Zimmermann, Sabine Zimmermann (Zwickau), Diana Golze, weiterer Abgeordneter und der Fraktion DIE LINKE: Menschenrecht auf gute Pflege verwirklichen – Soziale Pflegeversicherung solidarisch weiterentwickeln Drucksachen 18/1953, 18/2909</ivz-eintrag-inhalt>
+        <a href="S5647" typ="druckseitennummer">
+          <seite>5647</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003869"><name><vorname>Sabine</vorname><nachname>Zimmermann</nachname><ortszusatz>(Zwickau)</ortszusatz><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>c) Beschlussempfehlung und Bericht des Ausschusses für Gesundheit zu dem Antrag der Abgeordneten Pia Zimmermann, Sabine Zimmermann (Zwickau), Matthias W. Birkwald, weiterer Abgeordneter und der Fraktion DIE LINKE: Deckungslücken der Sozialen Pflegeversicherung schließen und die staatlich geförderten Pflegezusatzversicherungen – sogenannter Pflege-Bahr – abschaffen Drucksachen 18/591, 18/2901</ivz-eintrag-inhalt>
+        <a href="S5647" typ="druckseitennummer">
+          <seite>5647</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002666"><name><vorname>Hermann</vorname><nachname>Gröhe</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Hermann Gröhe, Bundesminister BMG</ivz-eintrag-inhalt>
+        <a href="S5647" typ="druckseitennummer">
+          <seite>5647</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003786"><name><vorname>Katja</vorname><nachname>Kipping</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Katja Kipping (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S5647" typ="druckseitennummer">
+          <seite>5647</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003588"><name><vorname>Hilde</vorname><nachname>Mattheis</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Hilde Mattheis (SPD)</ivz-eintrag-inhalt>
+        <a href="S5650" typ="druckseitennummer">
+          <seite>5650</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003835"><name><vorname>Elisabeth</vorname><nachname>Scharfenberg</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Elisabeth Scharfenberg (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S5652" typ="druckseitennummer">
+          <seite>5652</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003602"><name><titel>Dr.</titel><vorname>Georg</vorname><nachname>Nüßlein</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Georg Nüßlein (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S5654" typ="druckseitennummer">
+          <seite>5654</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004454"><name><vorname>Pia</vorname><nachname>Zimmermann</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Pia Zimmermann (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S5656" typ="druckseitennummer">
+          <seite>5656</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003825"><name><vorname>Mechthild</vorname><nachname>Rawert</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Mechthild Rawert (SPD)</ivz-eintrag-inhalt>
+        <a href="S5657" typ="druckseitennummer">
+          <seite>5657</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004072"><name><vorname>Maria</vorname><nachname>Klein-Schmeink</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Maria Klein-Schmeink (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S5659" typ="druckseitennummer">
+          <seite>5659</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003638"><name><vorname>Jens</vorname><nachname>Spahn</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Jens Spahn (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S5660" typ="druckseitennummer">
+          <seite>5660</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004072"><name><vorname>Maria</vorname><nachname>Klein-Schmeink</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Maria Klein-Schmeink (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S5662" typ="druckseitennummer">
+          <seite>5662</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003835"><name><vorname>Elisabeth</vorname><nachname>Scharfenberg</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Elisabeth Scharfenberg (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S5663" typ="druckseitennummer">
+          <seite>5663</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004244"><name><vorname>Heike</vorname><nachname>Baehrens</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Heike Baehrens (SPD)</ivz-eintrag-inhalt>
+        <a href="S5663" typ="druckseitennummer">
+          <seite>5663</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004139"><name><vorname>Erwin</vorname><nachname>Rüddel</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Erwin Rüddel (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S5665" typ="druckseitennummer">
+          <seite>5665</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003797"><name><titel>Prof. Dr.</titel><vorname>Karl</vorname><nachname>Lauterbach</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dr. Karl Lauterbach (SPD)</ivz-eintrag-inhalt>
+        <a href="S5666" typ="druckseitennummer">
+          <seite>5666</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004454"><name><vorname>Pia</vorname><nachname>Zimmermann</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Pia Zimmermann (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S5667" typ="druckseitennummer">
+          <seite>5667</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004311"><name><vorname>Erich</vorname><nachname>Irlstorfer</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Erich Irlstorfer (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S5667" typ="druckseitennummer">
+          <seite>5667</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003759"><name><vorname>Diana</vorname><nachname>Golze</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Namentliche Abstimmungen 5669 B, 5669 C, 5674 D, 5675 A Ergebnisse 5669 D, 5672 A, 5680 D, 5683 A Tagesordnungspunkt 22: Antrag der Abgeordneten Nicole Gohlke, Caren Lay, Diana Golze, weiterer Abgeordneter und der Fraktion DIE LINKE: Wohnungsnot, Mietsteigerungen und Mietwucher in Hochschulstädten bekämpfen Drucksache 18/2870</ivz-eintrag-inhalt>
+        <a href="S5675" typ="druckseitennummer">
+          <seite>5675</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004041"><name><vorname>Nicole</vorname><nachname>Gohlke</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Nicole Gohlke (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S5675" typ="druckseitennummer">
+          <seite>5675</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004314"><name><vorname>Sylvia</vorname><nachname>Jörrißen</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Sylvia Jörrißen (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S5676" typ="druckseitennummer">
+          <seite>5676</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003756"><name><vorname>Kai</vorname><nachname>Gehring</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Kai Gehring (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S5678" typ="druckseitennummer">
+          <seite>5678</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004045"><name><vorname>Michael</vorname><nachname>Groß</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Michael Groß (SPD)</ivz-eintrag-inhalt>
+        <a href="S5679" typ="druckseitennummer">
+          <seite>5679</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004100"><name><titel>Dr.</titel><vorname>Jan-Marco</vorname><nachname>Luczak</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Jan-Marco Luczak (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S5685" typ="druckseitennummer">
+          <seite>5685</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004088"><name><vorname>Caren</vorname><nachname>Lay</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Caren Lay (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S5687" typ="druckseitennummer">
+          <seite>5687</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004444"><name><vorname>Dirk</vorname><nachname>Wiese</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dirk Wiese (SPD)</ivz-eintrag-inhalt>
+        <a href="S5689" typ="druckseitennummer">
+          <seite>5689</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004088"><name><vorname>Caren</vorname><nachname>Lay</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Caren Lay (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S5689" typ="druckseitennummer">
+          <seite>5689</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004333"><name><vorname>Christian</vorname><nachname>Kühn</nachname><ortszusatz>(Tübingen)</ortszusatz><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Christian Kühn (Tübingen) (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S5690" typ="druckseitennummer">
+          <seite>5690</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004346"><name><vorname>Yvonne</vorname><nachname>Magwas</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Yvonne Magwas (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S5692" typ="druckseitennummer">
+          <seite>5692</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004063"><name><vorname>Oliver</vorname><nachname>Kaczmarek</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Oliver Kaczmarek (SPD)</ivz-eintrag-inhalt>
+        <a href="S5693" typ="druckseitennummer">
+          <seite>5693</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004427"><name><titel>Dr.</titel><vorname>Volker</vorname><nachname>Ullrich</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Volker Ullrich (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S5694" typ="druckseitennummer">
+          <seite>5694</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004363"><name><vorname>Ulli</vorname><nachname>Nissen</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Ulli Nissen (SPD)</ivz-eintrag-inhalt>
+        <a href="S5696" typ="druckseitennummer">
+          <seite>5696</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004356"><name><vorname>Karsten</vorname><nachname>Möring</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Karsten Möring (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S5697" typ="druckseitennummer">
+          <seite>5697</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004444"><name><vorname>Dirk</vorname><nachname>Wiese</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dirk Wiese (SPD)</ivz-eintrag-inhalt>
+        <a href="S5698" typ="druckseitennummer">
+          <seite>5698</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004388"><name><vorname>Dennis</vorname><nachname>Rohde</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dennis Rohde (SPD)</ivz-eintrag-inhalt>
+        <a href="S5700" typ="druckseitennummer">
+          <seite>5700</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003211"><name><titel>Dr.</titel><vorname>Ernst Dieter</vorname><nachname>Rossmann</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dr. Ernst Dieter Rossmann (SPD)</ivz-eintrag-inhalt>
+        <a href="S5701" typ="druckseitennummer">
+          <seite>5701</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 23: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Beschlussempfehlung und Bericht des Ausschusses für wirtschaftliche Zusammenarbeit und Entwicklung zu dem Entschließungsantrag der Fraktionen der CDU/CSU und SPD: zu der vereinbarten Debatte – Deutschlands Beitrag zur Eindämmung der Ebolaepidemie Drucksachen 18/2607, 18/2841</ivz-eintrag-inhalt>
+        <a href="S5702" typ="druckseitennummer">
+          <seite>5702</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002630"><name><titel>Dr.</titel><vorname>Maria</vorname><nachname>Böhmer</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Maria Böhmer, Staatsministerin AA</ivz-eintrag-inhalt>
+        <a href="S5702" typ="druckseitennummer">
+          <seite>5702</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004114"><name><vorname>Niema</vorname><nachname>Movassat</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Niema Movassat (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S5703" typ="druckseitennummer">
+          <seite>5703</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004308"><name><vorname>Charles M.</vorname><nachname>Huber</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Charles M. Huber (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S5705" typ="druckseitennummer">
+          <seite>5705</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004114"><name><vorname>Niema</vorname><nachname>Movassat</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Niema Movassat (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S5705" typ="druckseitennummer">
+          <seite>5705</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004005"><name><vorname>Heinz-Joachim</vorname><nachname>Barchmann</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Heinz-Joachim Barchmann (SPD)</ivz-eintrag-inhalt>
+        <a href="S5705" typ="druckseitennummer">
+          <seite>5705</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004181"><name><vorname>Kathrin</vorname><nachname>Vogler</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Kathrin Vogler (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S5706" typ="druckseitennummer">
+          <seite>5706</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004066"><name><vorname>Uwe</vorname><nachname>Kekeritz</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Uwe Kekeritz (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S5707" typ="druckseitennummer">
+          <seite>5707</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004308"><name><vorname>Charles M.</vorname><nachname>Huber</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Charles M. Huber (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S5708" typ="druckseitennummer">
+          <seite>5708</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004187"><name><vorname>Sabine</vorname><nachname>Weiss</nachname><ortszusatz>(Wesel I)</ortszusatz><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Sabine Weiss (Wesel I) (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S5709" typ="druckseitennummer">
+          <seite>5709</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003797"><name><titel>Prof. Dr.</titel><vorname>Karl</vorname><nachname>Lauterbach</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dr. Karl Lauterbach (SPD)</ivz-eintrag-inhalt>
+        <a href="S5710" typ="druckseitennummer">
+          <seite>5710</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004066"><name><vorname>Uwe</vorname><nachname>Kekeritz</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Uwe Kekeritz (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S5711" typ="druckseitennummer">
+          <seite>5711</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 26: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Bericht des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung gemäß § 56 a der Geschäftsordnung: Technikfolgenabschätzung (TA) – Fernerkundung: Anwendungspotenziale in Afrika Drucksache 18/581</ivz-eintrag-inhalt>
+        <a href="S5712" typ="druckseitennummer">
+          <seite>5712</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004450"><name><vorname>Tobias</vorname><nachname>Zech</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Tobias Zech (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S5712" typ="druckseitennummer">
+          <seite>5712</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004114"><name><vorname>Niema</vorname><nachname>Movassat</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Niema Movassat (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S5713" typ="druckseitennummer">
+          <seite>5713</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004296"><name><vorname>Gabriela</vorname><nachname>Heinrich</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Gabriela Heinrich (SPD)</ivz-eintrag-inhalt>
+        <a href="S5714" typ="druckseitennummer">
+          <seite>5714</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004066"><name><vorname>Uwe</vorname><nachname>Kekeritz</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Uwe Kekeritz (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S5716" typ="druckseitennummer">
+          <seite>5716</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004308"><name><vorname>Charles M.</vorname><nachname>Huber</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Charles M. Huber (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S5717" typ="druckseitennummer">
+          <seite>5717</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004338"><name><titel>Dr.</titel><vorname>Philipp</vorname><nachname>Lengsfeld</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Philipp Lengsfeld (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S5718" typ="druckseitennummer">
+          <seite>5718</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 25: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Antrag der Abgeordneten Volker Beck (Köln), Tom Koenigs, Claudia Roth (Augsburg), weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Antiziganismus erkennen und entschlossen bekämpfen Drucksache 18/1967</ivz-eintrag-inhalt>
+        <a href="S5719" typ="druckseitennummer">
+          <seite>5719</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002625"><name><vorname>Volker</vorname><nachname>Beck</nachname><ortszusatz>(Köln)</ortszusatz><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S5719" typ="druckseitennummer">
+          <seite>5719</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004268"><name><titel>Dr. Dr. h. c.</titel><vorname>Bernd</vorname><nachname>Fabritius</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Bernd Fabritius (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S5720" typ="druckseitennummer">
+          <seite>5720</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002625"><name><vorname>Volker</vorname><nachname>Beck</nachname><ortszusatz>(Köln)</ortszusatz><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S5720" typ="druckseitennummer">
+          <seite>5720</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003206"><name><vorname>Petra</vorname><nachname>Pau</nachname><fraktion>Fraktion der Partei des Demokratischen Sozialismus</fraktion></name></redner>Petra Pau (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S5721" typ="druckseitennummer">
+          <seite>5721</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004296"><name><vorname>Gabriela</vorname><nachname>Heinrich</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Gabriela Heinrich (SPD)</ivz-eintrag-inhalt>
+        <a href="S5722" typ="druckseitennummer">
+          <seite>5722</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004338"><name><titel>Dr.</titel><vorname>Philipp</vorname><nachname>Lengsfeld</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr. Philipp Lengsfeld (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S5724" typ="druckseitennummer">
+          <seite>5724</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004077"><name><vorname>Tom</vorname><nachname>Koenigs</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Tom Koenigs (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S5725" typ="druckseitennummer">
+          <seite>5725</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Nächste Sitzung</ivz-eintrag-inhalt>
+        <a href="S5726" typ="druckseitennummer">
+          <seite>5726</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 1</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Liste der entschuldigten Abgeordneten</ivz-eintrag-inhalt>
+        <a href="S5727" typ="druckseitennummer">
+          <seite>5727</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 2</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Erklärung nach § 31 GO der Abgeordneten Hilde Mattheis und Mechthild Rawert (beide SPD) zu der Abstimmung über den von der Bundesregierung eingebrachten Entwurf eines Fünften Gesetzes zur Änderung des Elften Buches Sozialgesetzbuch – Leistungsausweitung für Pflegebedürftige, Pflegevorsorgefonds – (Fünftes SGB XI-Änderungsgesetz – 5. SGB XI-ÄndG) (Tagesordnungspunkt 21 a)</ivz-eintrag-inhalt>
+        <a href="S5727" typ="druckseitennummer">
+          <seite>5727</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 3</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Erklärung nach § 31 GO der Abgeordneten Ulrike Bahr, Bärbel Bas, Uwe Beckmeyer, Dr. Ute Finckh-Krämer, Ulrich Freese, Martin Gerster, Gabriele Groneberg, Gabriele Hiller- Ohm, Frank Junge, Cansel Kiziltepe, Dr. Bärbel Kofler, Steffen-Claudio Lemme, Klaus Mindrup, Markus Paschke, Dr. Simone Raatz, Andreas Rimkus, Susann Rüthrich, Johann Saathoff, Dr. Hans-Joachim Schabedoth, Dr. Dorothee Schlegel, Ewald Schurer, Michael Thews (alle SPD) zu der Abstimmung über den von der Bundesregierung eingebrachten Entwurf eines Fünften Gesetzes zur Änderung des Elften Buches Sozialgesetzbuch – Leistungsausweitung für Pflegebedürftige, Pflegevorsorgefonds – (Fünftes SGB XI-Änderungsgesetz – 5. SGB XI-ÄndG) (Tagesordnungspunkt 21 a)</ivz-eintrag-inhalt>
+        <a href="S5728" typ="druckseitennummer">
+          <seite>5728</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 4</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Amtliche Mitteilungen</ivz-eintrag-inhalt>
+        <a href="S5728" typ="druckseitennummer">
+          <seite>5728</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+  </inhaltsverzeichnis>
+</vorspann>

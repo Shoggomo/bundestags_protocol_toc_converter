@@ -1,0 +1,576 @@
+<vorspann>
+  <kopfdaten>
+    <plenarprotokoll-nummer>
+      Plenarprotokoll
+      <wahlperiode>18</wahlperiode>
+      /
+      <sitzungsnr>125</sitzungsnr>
+    </plenarprotokoll-nummer>
+    <herausgeber>Deutscher Bundestag</herausgeber>
+    <berichtart>Stenografischer Bericht</berichtart>
+    <sitzungstitel>
+      <sitzungsnr>125</sitzungsnr>
+      . Sitzung
+    </sitzungstitel>
+    <veranstaltungsdaten>
+      <ort>Berlin</ort>
+      ,
+      <datum date="25.09.2015">Freitag, den 25. September 2015</datum>
+    </veranstaltungsdaten>
+  </kopfdaten>
+  <inhaltsverzeichnis>
+    <ivz-titel>Inhalt:</ivz-titel>
+    <ivz-eintrag>
+      <ivz-eintrag-inhalt>Gedenken an die Opfer der Massenpanik bei der Hadsch</ivz-eintrag-inhalt>
+      <a href="S12121" typ="druckseitennummer">
+        <seite>12121</seite>
+        <seitenbereich>A</seitenbereich>
+      </a>
+    </ivz-eintrag>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 21: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>a) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zwei ten Gesetzes zur Stärkung der pflegerischen Versorgung und zur Änderung weiterer Vorschriften (Zweites Pflegestärkungsgesetz – PSG II) Drucksache 18/5926</ivz-eintrag-inhalt>
+        <a href="S12121" typ="druckseitennummer">
+          <seite>12121</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004030"><name><vorname>Katja</vorname><nachname>Dörner</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>b) Antrag der Abgeordneten Eli sabeth Scharfenberg, Katja Dörner, Kordula Schulz-Asche, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Gute Pflege braucht sichere und zukunftsfeste Rahmenbedingungen Drucksache 18/6066</ivz-eintrag-inhalt>
+        <a href="S12121" typ="druckseitennummer">
+          <seite>12121</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002666"><name><vorname>Hermann</vorname><nachname>Gröhe</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Hermann Gröhe, Bundesminister BMG</ivz-eintrag-inhalt>
+        <a href="S12121" typ="druckseitennummer">
+          <seite>12121</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004454"><name><vorname>Pia</vorname><nachname>Zimmermann</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Pia Zimmermann (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S12123" typ="druckseitennummer">
+          <seite>12123</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003797"><name><titel>Prof. Dr.</titel><vorname>Karl</vorname><nachname>Lauterbach</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dr Karl Lauterbach (SPD)</ivz-eintrag-inhalt>
+        <a href="S12124" typ="druckseitennummer">
+          <seite>12124</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003835"><name><vorname>Elisabeth</vorname><nachname>Scharfenberg</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Elisabeth Scharfenberg (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S12125" typ="druckseitennummer">
+          <seite>12125</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003602"><name><titel>Dr.</titel><vorname>Georg</vorname><nachname>Nüßlein</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr Georg Nüßlein (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12127" typ="druckseitennummer">
+          <seite>12127</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004186"><name><vorname>Harald</vorname><nachname>Weinberg</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Harald Weinberg (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S12129" typ="druckseitennummer">
+          <seite>12129</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003588"><name><vorname>Hilde</vorname><nachname>Mattheis</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Hilde Mattheis (SPD)</ivz-eintrag-inhalt>
+        <a href="S12130" typ="druckseitennummer">
+          <seite>12130</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004454"><name><vorname>Pia</vorname><nachname>Zimmermann</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Pia Zimmermann (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S12131" typ="druckseitennummer">
+          <seite>12131</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004139"><name><vorname>Erwin</vorname><nachname>Rüddel</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Erwin Rüddel (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12132" typ="druckseitennummer">
+          <seite>12132</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003835"><name><vorname>Elisabeth</vorname><nachname>Scharfenberg</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Elisabeth Scharfenberg (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S12132" typ="druckseitennummer">
+          <seite>12132</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003825"><name><vorname>Mechthild</vorname><nachname>Rawert</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Mechthild Rawert (SPD)</ivz-eintrag-inhalt>
+        <a href="S12133" typ="druckseitennummer">
+          <seite>12133</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 22: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>a) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Verbesserung der Unter bringung, Versorgung und Betreuung ausländischer Kinder und Jugendlicher Drucksache 18/5921</ivz-eintrag-inhalt>
+        <a href="S12135" typ="druckseitennummer">
+          <seite>12135</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004221"><name><vorname>Beate</vorname><nachname>Walter-Rosenheimer</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>b) Antrag der Abgeordneten Beate Walter-Rosenheimer, Luise Amtsberg, Dr Franziska Brantner, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Das Kindeswohl bei der Ver sorgung unbegleiteter minderjähriger Flüchtlinge absichern Drucksache 18/5932</ivz-eintrag-inhalt>
+        <a href="S12135" typ="druckseitennummer">
+          <seite>12135</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Manuela Schwesig, Bundesministerin BMFSFJ</ivz-eintrag-inhalt>
+        <a href="S12135" typ="druckseitennummer">
+          <seite>12135</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004613"><name><vorname>Norbert</vorname><nachname>Müller</nachname><ortszusatz>(Potsdam)</ortszusatz><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Norbert Müller (Potsdam) (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S12137" typ="druckseitennummer">
+          <seite>12137</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003861"><name><vorname>Marcus</vorname><nachname>Weinberg</nachname><ortszusatz>(Hamburg)</ortszusatz><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Marcus Weinberg (Hamburg) (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12139" typ="druckseitennummer">
+          <seite>12139</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004030"><name><vorname>Katja</vorname><nachname>Dörner</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Katja Dörner (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S12141" typ="druckseitennummer">
+          <seite>12141</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004448"><name><vorname>Gülistan</vorname><nachname>Yüksel</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Gülistan Yüksel (SPD)</ivz-eintrag-inhalt>
+        <a href="S12143" typ="druckseitennummer">
+          <seite>12143</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004221"><name><vorname>Beate</vorname><nachname>Walter-Rosenheimer</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Beate Walter-Rosenheimer (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S12144" typ="druckseitennummer">
+          <seite>12144</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004372"><name><vorname>Martin</vorname><nachname>Patzelt</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Martin Patzelt (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12144" typ="druckseitennummer">
+          <seite>12144</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004360"><name><vorname>Özcan</vorname><nachname>Mutlu</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Özcan Mutlu (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S12146" typ="druckseitennummer">
+          <seite>12146</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003799"><name><vorname>Paul</vorname><nachname>Lehrieder</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Paul Lehrieder (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12147" typ="druckseitennummer">
+          <seite>12147</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004613"><name><vorname>Norbert</vorname><nachname>Müller</nachname><ortszusatz>(Potsdam)</ortszusatz><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Norbert Müller (Potsdam) (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S12147" typ="druckseitennummer">
+          <seite>12147</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 23: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>b) Antrag der Abgeordneten Maria KleinSchmeink, Luise Amtsberg, Kordula Schulz-Asche, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Psychotherapeutische und psychosoziale Versorgung von Asylsuchen den und Flüchtlingen verbessern Drucksache 18/6067</ivz-eintrag-inhalt>
+        <a href="S12150" typ="druckseitennummer">
+          <seite>12150</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004072"><name><vorname>Maria</vorname><nachname>Klein-Schmeink</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Maria Klein-Schmeink (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S12150" typ="druckseitennummer">
+          <seite>12150</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004253"><name><vorname>Ute</vorname><nachname>Bertram</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Ute Bertram (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12151" typ="druckseitennummer">
+          <seite>12151</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004181"><name><vorname>Kathrin</vorname><nachname>Vogler</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Kathrin Vogler (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S12153" typ="druckseitennummer">
+          <seite>12153</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003588"><name><vorname>Hilde</vorname><nachname>Mattheis</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Hilde Mattheis (SPD)</ivz-eintrag-inhalt>
+        <a href="S12154" typ="druckseitennummer">
+          <seite>12154</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004452"><name><vorname>Emmi</vorname><nachname>Zeulner</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Emmi Zeulner (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12155" typ="druckseitennummer">
+          <seite>12155</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004072"><name><vorname>Maria</vorname><nachname>Klein-Schmeink</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Maria Klein-Schmeink (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S12156" typ="druckseitennummer">
+          <seite>12156</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004295"><name><vorname>Dirk</vorname><nachname>Heidenblut</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dirk Heidenblut (SPD)</ivz-eintrag-inhalt>
+        <a href="S12157" typ="druckseitennummer">
+          <seite>12157</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 24: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Anpassung des Erbschaftsteuer- und Schenkungsteuergesetzes an die Rechtsprechung des Bundesverfassungsgerichts Drucksache 18/5923</ivz-eintrag-inhalt>
+        <a href="S12158" typ="druckseitennummer">
+          <seite>12158</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11002733"><name><titel>Dr.</titel><vorname>Michael</vorname><nachname>Meister</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr Michael Meister, Parl Staatssekretär BMF</ivz-eintrag-inhalt>
+        <a href="S12159" typ="druckseitennummer">
+          <seite>12159</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004129"><name><vorname>Richard</vorname><nachname>Pitterle</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Richard Pitterle (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S12160" typ="druckseitennummer">
+          <seite>12160</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003050"><name><vorname>Lothar</vorname><nachname>Binding</nachname><ortszusatz>(Heidelberg)</ortszusatz><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Lothar Binding (Heidelberg) (SPD)</ivz-eintrag-inhalt>
+        <a href="S12162" typ="druckseitennummer">
+          <seite>12162</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004127"><name><vorname>Lisa</vorname><nachname>Paus</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Lisa Paus (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S12163" typ="druckseitennummer">
+          <seite>12163</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003646"><name><vorname>Antje</vorname><nachname>Tillmann</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Antje Tillmann (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12165" typ="druckseitennummer">
+          <seite>12165</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004328"><name><vorname>Cansel</vorname><nachname>Kiziltepe</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Cansel Kiziltepe (SPD)</ivz-eintrag-inhalt>
+        <a href="S12167" typ="druckseitennummer">
+          <seite>12167</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003639"><name><vorname>Christian</vorname><namenszusatz>Frhr. von</namenszusatz><nachname>Stetten</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Christian Freiherr von Stetten (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12168" typ="druckseitennummer">
+          <seite>12168</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004340"><name><vorname>Philipp</vorname><namenszusatz>Graf</namenszusatz><nachname>Lerchenfeld</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Philipp Graf Lerchenfeld (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12170" typ="druckseitennummer">
+          <seite>12170</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 25: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Umsetzung der Wohnimmobilienkreditrichtlinie Drucksache 18/5922</ivz-eintrag-inhalt>
+        <a href="S12171" typ="druckseitennummer">
+          <seite>12171</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003450"><name><vorname>Ulrich</vorname><nachname>Kelber</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Ulrich Kelber, Parl Staatssekretär BMJV</ivz-eintrag-inhalt>
+        <a href="S12171" typ="druckseitennummer">
+          <seite>12171</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004088"><name><vorname>Caren</vorname><nachname>Lay</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Caren Lay (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S12172" typ="druckseitennummer">
+          <seite>12172</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004294"><name><titel>Dr.</titel><vorname>Stefan</vorname><nachname>Heck</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr Stefan Heck (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12173" typ="druckseitennummer">
+          <seite>12173</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003837"><name><titel>Dr.</titel><vorname>Gerhard</vorname><nachname>Schick</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Dr Gerhard Schick (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S12174" typ="druckseitennummer">
+          <seite>12174</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004052"><name><vorname>Mechthild</vorname><nachname>Heil</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Mechthild Heil (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12175" typ="druckseitennummer">
+          <seite>12175</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004388"><name><vorname>Dennis</vorname><nachname>Rohde</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Dennis Rohde (SPD)</ivz-eintrag-inhalt>
+        <a href="S12176" typ="druckseitennummer">
+          <seite>12176</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004427"><name><titel>Dr.</titel><vorname>Volker</vorname><nachname>Ullrich</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr Volker Ullrich (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12177" typ="druckseitennummer">
+          <seite>12177</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Tagesordnungspunkt 26: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>a) Antrag der Abgeordneten Norbert Müller (Potsdam), Sigrid Hupach, Nicole Gohlke, weiterer Abgeordneter und der Fraktion DIE LINKE: Kinderrechte umfassend stärken Drucksache 18/6042</ivz-eintrag-inhalt>
+        <a href="S12178" typ="druckseitennummer">
+          <seite>12178</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004221"><name><vorname>Beate</vorname><nachname>Walter-Rosenheimer</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>b) Beschlussempfehlung und Bericht des Ausschusses für Familie, Senioren, Frauen und Jugend zu dem Antrag der Abgeordneten Doris Wagner, Beate Walter-Rosenheimer, Dr Franziska Brantner, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Von Anfang an beteiligen – Partizipationsrechte für Kinder und Jugendliche im demografischen Wandel stärken Drucksachen 18/3151, 18/5276</ivz-eintrag-inhalt>
+        <a href="S12178" typ="druckseitennummer">
+          <seite>12178</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004613"><name><vorname>Norbert</vorname><nachname>Müller</nachname><ortszusatz>(Potsdam)</ortszusatz><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Norbert Müller (Potsdam) (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S12178" typ="druckseitennummer">
+          <seite>12178</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004131"><name><vorname>Eckhard</vorname><nachname>Pols</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Eckhard Pols (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12180" typ="druckseitennummer">
+          <seite>12180</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004221"><name><vorname>Beate</vorname><nachname>Walter-Rosenheimer</nachname><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Beate Walter-Rosenheimer (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S12181" typ="druckseitennummer">
+          <seite>12181</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004412"><name><vorname>Svenja</vorname><nachname>Stadler</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Svenja Stadler (SPD)</ivz-eintrag-inhalt>
+        <a href="S12183" typ="druckseitennummer">
+          <seite>12183</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004336"><name><titel>Dr.</titel><vorname>Silke</vorname><nachname>Launert</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr Silke Launert (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12184" typ="druckseitennummer">
+          <seite>12184</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004391"><name><vorname>Susann</vorname><nachname>Rüthrich</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Susann Rüthrich (SPD)</ivz-eintrag-inhalt>
+        <a href="S12186" typ="druckseitennummer">
+          <seite>12186</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Zusatztagesordnungspunkt 5: </ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Aktuelle Stunde auf Verlangen der Fraktion BÜNDNIS 90/DIE GRÜNEN: Haltung der Bundesregierung zu unzutreffenden Angaben beim Spritverbrauch und Schadstoffausstoß von Pkw Oliver Krischer (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S12187" typ="druckseitennummer">
+          <seite>12187</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003516"><name><vorname>Alexander</vorname><nachname>Dobrindt</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Alexander Dobrindt, Bundesminister BMVI</ivz-eintrag-inhalt>
+        <a href="S12189" typ="druckseitennummer">
+          <seite>12189</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004089"><name><vorname>Sabine</vorname><nachname>Leidig</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Sabine Leidig (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S12190" typ="druckseitennummer">
+          <seite>12190</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004101"><name><vorname>Kirsten</vorname><nachname>Lühmann</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Kirsten Lühmann (SPD)</ivz-eintrag-inhalt>
+        <a href="S12191" typ="druckseitennummer">
+          <seite>12191</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004430"><name><vorname>Thomas</vorname><nachname>Viesehon</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Thomas Viesehon (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12193" typ="druckseitennummer">
+          <seite>12193</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004007"><name><vorname>Herbert</vorname><nachname>Behrens</nachname><fraktion>Fraktion DIE LINKE.</fraktion></name></redner>Herbert Behrens (DIE LINKE)</ivz-eintrag-inhalt>
+        <a href="S12194" typ="druckseitennummer">
+          <seite>12194</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004329"><name><vorname>Arno</vorname><nachname>Klare</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Arno Klare (SPD)</ivz-eintrag-inhalt>
+        <a href="S12195" typ="druckseitennummer">
+          <seite>12195</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004085"><name><vorname>Stephan</vorname><nachname>Kühn</nachname><ortszusatz>(Dresden)</ortszusatz><fraktion>Fraktion Bündnis 90/Die Grünen</fraktion></name></redner>Stephan Kühn (Dresden) (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+        <a href="S12196" typ="druckseitennummer">
+          <seite>12196</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004366"><name><vorname>Florian</vorname><nachname>Oßner</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Florian Oßner (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12197" typ="druckseitennummer">
+          <seite>12197</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004363"><name><vorname>Ulli</vorname><nachname>Nissen</nachname><fraktion>Fraktion der Sozialdemokratischen Partei Deutschlands</fraktion></name></redner>Ulli Nissen (SPD)</ivz-eintrag-inhalt>
+        <a href="S12199" typ="druckseitennummer">
+          <seite>12199</seite>
+          <seitenbereich>A</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11004051"><name><titel>Dr.</titel><vorname>Matthias</vorname><nachname>Heider</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Dr Matthias Heider (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12200" typ="druckseitennummer">
+          <seite>12200</seite>
+          <seitenbereich>B</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003780"><name><vorname>Andreas</vorname><nachname>Jung</nachname><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Andreas Jung (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12201" typ="druckseitennummer">
+          <seite>12201</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt><redner id="11003815"><name><vorname>Carsten</vorname><nachname>Müller</nachname><ortszusatz>(Braunschweig)</ortszusatz><fraktion>Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union</fraktion></name></redner>Carsten Müller (Braunschweig) (CDU/CSU)</ivz-eintrag-inhalt>
+        <a href="S12202" typ="druckseitennummer">
+          <seite>12202</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Nächste Sitzung</ivz-eintrag-inhalt>
+        <a href="S12204" typ="druckseitennummer">
+          <seite>12204</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 1</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Liste der entschuldigten Abgeordneten</ivz-eintrag-inhalt>
+        <a href="S12205" typ="druckseitennummer">
+          <seite>12205</seite>
+          <seitenbereich>C</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+    <ivz-block>
+      <ivz-block-titel>Anlage 2</ivz-block-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt> Amtliche Mitteilungen</ivz-eintrag-inhalt>
+        <a href="S12205" typ="druckseitennummer">
+          <seite>12205</seite>
+          <seitenbereich>D</seitenbereich>
+        </a>
+      </ivz-eintrag>
+    </ivz-block>
+  </inhaltsverzeichnis>
+</vorspann>
