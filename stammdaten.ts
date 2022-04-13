@@ -7,6 +7,9 @@ import {Moment} from "moment";
 const STAMMDATEN_FILE = "./MDB_STAMMDATEN.XML";
 const STAMMDATEN_WP_FILE = (wp: string) => `./stammdaten_by_wp/MDB_STAMMDATEN_WP${wp}.xml`;
 
+/**
+ * The Stammdaten for a specific WP. This dataset is smaller, so searches are faster.
+ */
 export class StammdatenForWP {
     private readonly dom: jsdom.JSDOM;
     private readonly doc: Document;
@@ -31,7 +34,7 @@ export class StammdatenForWP {
     }
 
     /**
-     * Search for a person by the name appearing in the text. It must contain the persons first name and surname.
+     * Search for a person by the name appearing in the text. It must contain the persons first name and last name.
      * @param fullname String containing the first name and surname. No specific order needed. Can contain other things.
      * @param wp
      * @param date
