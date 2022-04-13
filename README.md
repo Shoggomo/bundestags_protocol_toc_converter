@@ -13,6 +13,7 @@ found [here](https://www.bundestag.de/resource/blob/577234/4c8091d8650fe417016bb
 
 Some prerequities before this script can be used:
 
+- You need to have `node` and `npm` installed.
 - All files can only contain the table of contents and white pages as output by
   the [Bundestags protocol splitting tool](https://github.com/Shoggomo/bundestags_protocol_splitter)
 - All files need to have their original name. E.g. `18001.pdf`
