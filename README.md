@@ -1,4 +1,4 @@
-# Bundestags protocol TOS converter
+# Bundestags protocol TOC converter
 
 > **Note**: This script currently was only tested with the protocols of the 18. Wahlperiode.
 
@@ -45,10 +45,10 @@ $ npm install
 ```
 
 To run the script execute the following command, providing a Wahlperiode (e.g. 18) and the folder containing all
-protocol TOSes:
+protocol TOCes:
 
 ```bash
-$ npm run start -- <Wahlperiode> <PATH TO FOLDER WITH PROTOCOL TOSes>
+$ npm run start -- <Wahlperiode> <PATH TO FOLDER WITH PROTOCOL TOCes>
 ```
 
 Example:
@@ -68,7 +68,7 @@ This tool is not perfect yet, but gets a good baseline. Here are some things tha
 - [ ] The `rolle` tags inside of `redner` tags are currently empty, because the needed information is not present in the
   Stammdaten
 - [ ] Better check, if a person is meant as a Redner
-    - Currently, a person is assumed as Redner, when their name appears in a TOS entry, but this can be false.
+    - Currently, a person is assumed as Redner, when their name appears in a TOC entry, but this can be false.
     - Here the Person *"Brigitte Zypries"* is not a Redner, but matched:
         - > Glückwünsche zum Geburtstag der Abgeordneten Brigitte Zypries
     - This is mostly a problem for "Mündliche Frage" entries
